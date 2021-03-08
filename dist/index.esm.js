@@ -2077,15 +2077,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/BeeSwapFinance/",
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "https://beeswapfinance.gitbook.io/beeswap-finance/",
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://beeswapfinance.medium.com/",
             },
         ],
     },
