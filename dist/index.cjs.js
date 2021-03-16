@@ -356,7 +356,7 @@ var Icon$p = function (props) {
 
 var Icon$q = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-      React__default['default'].createElement("image", { width: "32", height: "32", href: "data:image/png;base64,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" })));
+      React__default['default'].createElement("image", { width: "32", height: "32", href: "images/bee/logo.png" })));
 };
 
 var Icon$r = function (props) {
@@ -379,26 +379,11 @@ var Icon$s = function (props) {
 };
 
 var Icon$t = function (props) {
-    var theme = styled.useTheme();
-    var primaryColor = theme.isDark ? "#3C3742" : "#e9eaeb";
-    var secondaryColor = theme.isDark ? "#666171" : "#bdc2c4";
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-      React__default['default'].createElement("path", { d: "M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16z", fill: primaryColor }),
-      React__default['default'].createElement("mask", { id: "A", "mask-type": "alpha", maskUnits: "userSpaceOnUse", x: "0", y: "0", width: "32", height: "32" },
-        React__default['default'].createElement("path", { d: "M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16z", fill: "#c4c4c4" })),
-      React__default['default'].createElement("g", { mask: "url(#A)" },
-        React__default['default'].createElement("path", { d: "M25.128 16.436c0 3.115-4.133 5.641-9.231 5.641s-9.231-2.526-9.231-5.641V15h18.461v1.436zm2.205 13.806c0-3.815-5.074-6.908-11.333-6.908S4.667 26.426 4.667 30.242V32h22.667v-1.759z", fill: secondaryColor }),
-        React__default['default'].createElement("path", { fillRule: "evenodd", d: "M10.234 5.601C9.942 4.264 10.96 3 12.328 3c1.184 0 2.143.959 2.143 2.143v3.873l1.427-.067c.589 0 1.166.034 1.724.098V5.143c0-1.184.959-2.143 2.143-2.143 1.368 0 2.386 1.264 2.093 2.601l-.931 4.258c2.529 1.006 4.201 2.749 4.201 4.731 0 3.115-4.133 5.641-9.231 5.641s-9.231-2.526-9.231-5.641c0-2.053 1.794-3.849 4.476-4.836l-.908-4.153z", fill: secondaryColor }),
-        React__default['default'].createElement("ellipse", { cx: "12.308", cy: "14.846", rx: "1.026", ry: "1.538", fill: primaryColor }),
-        React__default['default'].createElement("ellipse", { cx: "19.385", cy: "14.846", rx: "1.026", ry: "1.538", fill: primaryColor }))));
-};
-
-var Icon$u = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M18 19H6C5.45 19 5 18.55 5 18V6C5 5.45 5.45 5 6 5H11C11.55 5 12 4.55 12 4C12 3.45 11.55 3 11 3H5C3.89 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V13C21 12.45 20.55 12 20 12C19.45 12 19 12.45 19 13V18C19 18.55 18.55 19 18 19ZM14 4C14 4.55 14.45 5 15 5H17.59L8.46 14.13C8.07 14.52 8.07 15.15 8.46 15.54C8.85 15.93 9.48 15.93 9.87 15.54L19 6.41V9C19 9.55 19.45 10 20 10C20.55 10 21 9.55 21 9V4C21 3.45 20.55 3 20 3H15C14.45 3 14 3.45 14 4Z" })));
 };
 
-var Icon$v = function (props) {
+var Icon$u = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 64 64" }, props),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M2.43832 38.1153C2.43048 38.3002 2.42654 38.4857 2.42654 38.6718C2.42654 39.3754 2.48287 40.0702 2.59273 40.7545H2.42654V41.8317C2.42654 42.3575 2.45801 42.8784 2.51976 43.3937C3.7248 53.4491 16.4632 61.3609 32 61.3609C47.5368 61.3609 60.2752 53.4491 61.4802 43.3937C61.542 42.8784 61.5735 42.3575 61.5735 41.8317V40.7545H61.4073C61.5171 40.0702 61.5735 39.3754 61.5735 38.6718C61.5735 38.4857 61.5695 38.3002 61.5617 38.1153C61.1156 27.587 48.0511 19.1426 32 19.1426C15.9489 19.1426 2.88444 27.587 2.43832 38.1153ZM0.00951064 38.1153C0.229456 31.6916 4.24297 26.2955 9.82907 22.6067C15.6197 18.7827 23.4643 16.5034 32 16.5034C40.5358 16.5034 48.3803 18.7827 54.1709 22.6067C59.757 26.2955 63.7705 31.6916 63.9905 38.1153H64V41.8317C64 48.5003 59.9176 54.102 54.1709 57.8969C48.3803 61.7208 40.5358 64.0001 32 64.0001C23.4643 64.0001 15.6197 61.7208 9.82907 57.8969C4.08238 54.102 0 48.5003 0 41.8317V38.1153H0.00951064Z", fill: "#606063" }),
       React__default['default'].createElement("path", { d: "M61.5734 41.832C61.5734 52.6177 48.3329 61.3612 32 61.3612C15.667 61.3612 2.42651 52.6177 2.42651 41.832V38.7405H61.5734V41.832Z", fill: "#BEBEBE" }),
@@ -426,27 +411,27 @@ var Icon$v = function (props) {
           React__default['default'].createElement("stop", { offset: "1", stopColor: "#8D4104" })))));
 };
 
-var Icon$w = function (props) {
+var Icon$v = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-      React__default['default'].createElement("image", { width: "90", height: "90", href: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAC+lBMVEUAAAAaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhr/t03u7u4aGxqenp4mxtoArMEAAAAAABEAg48ZGRn///8WFhcXAAAfAAD/uk4AAA8FBQUQEBAdHBuwsLD/wFD/tUz/y1MFCxViSyomxNiAgIAZHBwABBOEhIT/0lYdHh0aFBMaFhYAq8AZGBgTFRcAqb2Wlpb8tUwwKR8dDQsaICD6+vomwtYyMjK0tLQcEA8QEhft7e3/yVMMDxYeCQYAwdn/2lj/x1L/vU8eBQMAyOEgHhwCCBT/1Vb/0FX/xFEZHh4JDRUZCQf/11e5ubn/zVSdnZ0ZDQwo4/so3/cAxd0Ay+UAvdQZERAn3PNFOCQBlqUXLjH09PQSPEE2LiAKCgop7P8n2O4AkZ4o6f8AlKIYKSsn1OkAtcwAr8UBhpMQR01FRUVYRigdCAYA0OpVVVXsqkkAuc8IcXyGZTImzOGjo6MCgY0IZ3Bubm4YBgQn0OSsrKypqakeXmavgTuPbDQYJCUODg4o5v4o4vkmyNwkrb4CorX/3Vn2t01NTU2mfjqBYjEqJR4MDAwAssgCm6ygoKCampohe4Ygcnx4eHgPUlrMmUMpKSkMX2igeDgUNTh4XC8p8v8lu84jm6oAjZkGd4QJbHcMWWEeT1VyVy5SQCZOPiUlIh+xsbEGe4kOTlX/wlC+kEA3Nzcmyt7JycnBwcEjnq4AmagFjp8GipoiipcAiZaLi4t8fHwfZW0dR0zboEU+Pj4cNThcRygo5f0hg49oaGjwrkrFlUK6iD2RcTaIajReSyogISEltccjpbXstUzcqUjHkECadDdkUCve3t4jlqR0dHT/41tbW1vjtk3ko0YcPD+xiT5qUyzW1tZiYmIeVVzTpEfXmUM+NCL/8mDVnkVAMCEij53/6l0q/P/Ozs4A5v+LVrNAAAAAIHRSTlMA97SeFWYuhzsbDneYT6tH1c6PV+Lb6cakfgjvcF8ivYNhGLgAABT9SURBVHja1JnZaxNRFIdTl7pr3XcdjzCXycDc9JpkRMcJ0mAFUdIJJIFshBhfAyH9AwwoiOCDKD5Vu4CCtBRfa/vQir4pKAXXCq644YIr4oNn0tQmMxMncSt+Dwox8Xz5nXOXaR3/O4umLXBMJQsAYCoNsD4y2zFVYH2dhkbH1NAIJZbNdUwFc9bCBIsdU0ET+JrbfcCaRYCFjn/PKr30QVGAoVMCwGrHv2YegMCf288L/K5jvA9gVuMax79jzYZ1AD7+jPMojxbOPt0AGlau/ifLYc7SJSsbQK9/P+fchQLbnG/bXb7Sepj1lx0aVy+GcVg7f9lZFNjhdO7jTzEo0TTzr/VixuploCMI+h/8VeemcQH8+xqvZyIrItPdlsxw/AUWbRyvLhMCrDgAubaSQNse5xkcg+CbMYXKgu4w/Y8rLF0+Xp0q3aN3tsaYq/mps+1HAm3ONuB9ypuOzxe6CSnGsGTNHy2/Qk82QMjQwEjr15c7gy38Aaz/QwAN9vPNQE9+ikfuZBXqRwU284+Vn71cL5+iqbE7rXFVS3wkUb0BZQKI8zzPgsp7NZL2fhgbV2hq/DOjN228POt6paaHOU+on0JP+1sMoFwAx+AGHyV5bdgjqfEPo8VBgVl/oP76YvhUuHc6lOGQ5OlojOmDt6lCAJvwzdXD6JEOD+fh1PSjPE2hwfINv1l+7kYsL1C5qzUU9mB5DKCL+vi+nEkADa7yEJTfJzz4Lime6Q9QfRpn/t7S009cf0uX+9PzRELVef5STAn8UaxvFCg1IZuJFEXdHbcKVEaDVb934CDBfGfnkQkeDypR/qAzt8kkgBFc5k8B7QxhBIgnk+5MEf2y8MvXlYVQhImEkgmo7BP5fRiASQDBDZHF2OkwV8QTCR3OYxt+9co2V9/1BSPooy/BTWYBPYJcHx+lFzCCkoLqHaBB9msX5xn64o8RpQKCy1vkr2AAVgJocJxvCaYeZn4YhEP9JOYDWF//obtCn/7syIkKekeVyQCMAkjOeQYjKMQlroQn0nFbJmgw8xfqi3RU61DL6Uh/iU1OgFkAI7jCN4tkJI4RTBB6KBIGsK6+/i8H5qcDcc3DleEJ3aVscgmYBRDnTVyKg6pU9qn0gyhhdXahSa9/IZ3E+mVEhvMK8JsxgGoCGMHT5h6B3CmPwBNHg/omEXd/gQ6EhsvrI/HXRHD15fZsqi6ALz3Td6OExFUYMOKr4xFuCQDQrXH8/pWoY7R0ClQXwAj87aIyonoqDF7uRIO1c2o8/AEYzSbCxvraw0DglPgUy/0sgTY8l320oHKV0/M+JjNYXOsTn48MJXEtG0jfwwBeYDUbgbc9p/yx3oTBYIQEWW3nwkpgcux93FRfCn9UBP44dsBaYPLFdxjBQNrwcVxBYk2LcRaAn3biqW4k0yv7XXtxBG0E8Exy+VPCgyRXQST0hLIaBrFRH4AnIYkzke7CDpzHAGwE8NVDPKN3Q57KJoTDuwmDphoaoHQnw+YAIu487oL7sZidQBs+sIGST0a4SgP1oZxiMP/n9WfqDRhBeROZ21hf74B9AntyfS5RuZ3gDAYdd6lg04Q1K4oN4BDLNaB3wF6gTb8X4EZqCjE+SLEJNhMotzzQLAKQtKwy2QE7ARxDuVtyGyNIPEylAOb95AxsAKB3cQWY0a4HAvoasBdAcng7FMhrlTMahE5SgIY5PwtA2Z10W3agnwJ/E0vZC+gR7OCZaStA3N48YTC96iWoAUp3SjOJMYIHYW0C+Prldn8s746YIki/pi0AjdUuwdUDcJ/ulpvFt/YCkz3wy70Z8yipF0n1HbkJgD62DiDTm/LrVxFbgclDGacpXVZ5HC7dq/irRbAAQO52hyM6xvDijwngItxUs8BxnMJCRpqIXkskw0W0528IVNmNpoFA7z13FxlORCqSSDwhLfyWOgSeQk9q6PTwjzV0MXuxyODWbBAXgtXPLzYACP6Pg9ki+S63VL6FRPIxHIHaBXLOg7wo386UJiiymyolSNAH1nvBzOJTuFKCdqqGXYC/lMvZCBiGgPTHuSLJWwHiD/yghcFyyw4wIThBip4sX8XqCSLw77BQ7QJneYF26QI63n456C+BJgCwyHIT8LNoiUCh1V0+g10U+Kt1CVxp95OCVuqj5D384brOrdbWVu8RyzFcCqBkuVuHS4QrrsSZrUR0XXHuMeI8wAsotseMs22oPZafXE1hr6Zp4dAw/tfuO7IIy0wC8wFwDSQnkDwVd4GPsR7f03oS2JO75ApGb1Vei7y9gRi2V4gKFj1YDGIMp9aS5GEWFH2X9pq41CeC2If/YObSfTHgv65VbIOJQSriDPgBWWIegVT3abe1QOJRrIUJLjP8KR/4mnmXFSITY48qv5E6QEkR0XxFXwRACvrbrTdiSmQrYgEGLBCTrSHKK81wolwYLBQKowXmN+1F6wDokThnjRQ+ybp3W5AfwhYM5Xdb0h3t1wyHoVsNI1qoQEyPitNBILj3WOORMlKrFYl+IpB7iVZr8FPm76ITukeNv2OZsRImd04r3JZ0oAA92eGuAlcF9bUiGH7N1LgMgtsPJ7k6UfUETsa5OtE+40po2lBxFDeAnDfeIiVb0sUE0pItputNChoWGU4iJZuseKjXVM1rx9dOFLj71WuHplbctKVkVgFYb7iNkTFNKq//eXR0qx0D2QAEPw7Yvm90tLfcQPKOEcORPAsFvrNqJaFNhFEYVFREEHHF5TIJMwzz62Spy5jWSZgQNcRYLBglMTbpmOWQiGASgrmoKJiAaRK0psG1YKzowSaXugTUag/FtlhsVdSKC+6IIi7owTemOs5Eo6LfbfjCnzfvf/ubVz+2MhcO2mni93CxmL2B+D1oShKVnWdAgHGyTECcllQAbx1CxKT+B4RzCAiKkuwqC8ajQYAjSyWd0Floo1iyRf2vaCFZUkNssq390Xv2EiQ2US7A7qWSNgrKVzI0ZOpd8m/oNQ21cRQBQyO5AKOrCQBogoGCatsVq/bfYL18SKURh6fVBDgiFWDh83oXhu+5bJWALyk8ir+Ahz+Bk+L4WBQAiqKqRjiyG2m5+2ynBId6U38lQCJ1SmWHmSMcWGmEcjeUpQJhO2SXJ3sc79VWe2FFqiS5gctDuNDx22Qh/LTohmIgghJSpoKHNCbfGWjwnbyiClKmJXU/4Grd3ZCG3ivr9+ZvfCQPRHOFUHxhrSxk25bXgiu2SDRAXU1V+f/SnlCbxAnbjPbaozUb5PXFuVrZBH8SJKPlB2sqmmmC49Sve/eIGDKl8lVuPH0e52RRiKQPNwkKkDVasopk7DSsnnphq2imz4ErPvv8oxdUtcFj2mu4rGSEGORcW1Hksg3Y9LGy/SDluFgx11p6kzBSqjqr50+dLp0/dG3bdxy6psbE9YW02cdmjJG1BWIrJ41GdtUla0Lxh8inrSntN5TEGCRzAsji2MyK1pQ+LQgwv2ah07kRSoPy7u9+QwOJP+E95Rc8ltZaS9r0Mc/PDaBkLaXSxxTHylDwvSqu3gGrVOHabU6n81s+WL+brmiQx4MbnFsNt+5c9vbirZM3VjfVfFXcmtM0qzqVSgh/n+C1piUnTtTlS1YQQa58Pi2QVxXWb7EyUVoJMehVkzCmbap58eDWgxdrm76WBRu3ExWt0YTZWIN9V9PSB9vPNzhqXZpNh21fL8R20L5Igw/xHo/HmtpziW0JhdR3r52wavPS+MMnXq/EgDSe31bHpwTSw+/BMRcFU8e1a24c2WJ01DqMW07vWlOzoFyRjakYEpPESed2WI0aOc7oIugt79fMX1BeVLVxirSCv3oKV6kpjqNacPySiRdzgqCbE6xAkhzVhocOJax5UEmChRh0+8AC29KH9bSjnuKoegft2utcvRCmvtjkn+xpFt35QFNsAAG8Gh1BHF4Dc5qaDctrWXznFf6JCsd0XoEMsCSurhMlyKf5Z7iKxdwCqWeN+N08aOzKM9jjnl9bs3H1Ytj3ckngkgbWRZ/d8A5MoLI/nyR8BbOINSB9f6av04y8d11Q8W9YIIz2SLXa9ARvMwdQY2dfph9+Yw6pTlxJlCXIp/htuNHsRlvf9GVeehHJ4moTz5vUagxikNP2gSY1CA1k+jIDCGl09IfVgglM+cmcGsMa3ShTCPp8fuVxL2Lr6dNL18+f79xE29WsUW1G7naL3+cLFvqQ29ymGrqiLas/dQ3nWIT1xLM+XyTXiQJmVctVLWRBYsv6pweX0zoSbS7GfD5frHsAGdjao0epn42pZmKg4WRPh79VqVRGOnIkYo30uRcb17+Dj1Y0aqMZ6XMdEeBagx2Pk8isxg/lrTzPp+pO4RiGtjIdzUB2+cLtoL0QdirENhieH7hFEqDV/mBYIONh/xu4Ixe0tKN+uizTe7s7uhglgGGiSjMCQ3Cd3b334ZYGEA7pLGGmTLaGc15kpnBq27PXOy+FVCyJXkayFqUAS3O4ByXN6jYN5tr0cAuxCIwqE42MkJFwHwroMDETSRwRBBjOMsoyLL7YAJhbPUHTsDPXBdDmuE84ZUS8gg6UaYTyAA9RZi/q9Ae/k13hohuROkzYvjpIFqH2aAzIEfGixwN6oMSJuaQsQ2+ijHIEFn+wL4m8BpIjDWD8mfIrlsFYrsc7wVc4Dkg38h73RX4gleFhMLcAcJw+iXSPw80iaYl/yiDxA0h5MPQaChFRglg019ko+JZb13kvXH6L72Rw/+N+Q1Ig92UK4bhAiuJl/YMDeoH0bm2PR0EkEbGure5f7ZFnwEW3hxnxIMbvK3T3DPZ0F3xZySkC2erzDxeBvGfZH2RkpCUejeQeDw5+vBePSgVnwsdBAZN/ubFy65T+oN8fjLUyZW3G/D7wym+PrbGvpHLkKSKQweaRx64IkBHxCZwyG2wesdv4VzLOxJr3JX+9v5wqqCB7r1i8Vwjul2i1fOZ1f0EgLdksCCQFWFdkuLtYzLVW6oOBy2zOdRe7c837PwkKmP6r72rmgCfqNgfcbq+uvyeYZRjJKX7/x/5GL5Dmzu7rQalilddjgy85IANbMzmZ1i1dUaZ9QA+kfvPx4a3uKmurWVOxxoBbbzDovRA7c2F4T/EvosMvwagEEuyyn4mCeOKVh4v7vpNuicOA7+8f5FAyYDAYAkkUMOiw2ROq7S0B6+atWwXhE30MxxnRuR8Lzh1YN2/eOn2jAXE50bhBw+0IYbpV8+bN22FohJDRet0iukvwDUo2YiuAXEFielKuAPm8FPvSvrWDPA1FYR+DT3wrPhGCgQZ6FjfJkgcZbhHukgzJFFzUpEJCQGtr20ACLdKgIBTFji0ohVKUPpzaTa0/KIiujk4u7oLnWmPVqlhfk1+Xhm/4zj3P0N4ji91uwMEFnC537l1P29u9l9j/JVCD7jSgIOey2Yf30EHzI16+gf2fQC7sTvs6YCLJ97Fppt3kTVbORVAKu2FJ5hC7fnh5DA0wZ+/yWhKZ2OCe3jx34hR+brEGn4uiXivvOPlWF0juWvbJPUw3rIXL5x/geASprhiOUfYCkHLZC7fvXWHk1YtXfcw6aGbahpN3e7C8DrA8kghtObXYkyEnZZ+9OncTP/fZiAP6OM5XeL5iuJMoyuHgPH3z5oub528/z6oiNFtxjef5tmX1gOLgvHP95osXNy+9trOiCkEtLvOaUS6R5Sa4PBFs6DtlzdU4sLksfXD3zt23F7KCDVIrVhQeoVTix5GJ5ok37ty5++xMVuTAr1kaz6CV4zoQ9F7pKZJvcC5JEFp5jVfaVgD2D/43XQxFDnoxrzntEkj4DsJwwZahyaPEHIridiQQ7LOMQ/dTCPJGSqJ5DRNE8QzjrqkY/rFVY2ScgLA0Br89kyRoxJpm1LomUFUQOJUCTMtOKsEssPgAAFNaEFQCemLkPyMrbqeEtSIgZALyxC0jqbkzoOLPXMM/vJ8TddKyNK1mPQ6FiNWWGsxcJrGAZjiTvmQiqdthh0ksoChOfuRTRpLmWHErCo8O1WgkYg/8uWs0tilXHE3hHaNVrY/q1Zbh8Ar/BbSKle80kJxpjqF8TZatsjcZjYaP+bn7MQFtsH/2LhOmAWZ1zdBQtGZYlmXUKvPs48t5w8iX+Y+5mHcY+emxxsj2x0RtMxLLEh+Zft4H8efv1B1iFvhpXi1i6zhacTbz0DGo+SW0tmW0Hs9mnbaVV5ZIw+iDuMot341zCxztM3mMejVsXiBEKnWLrK6+ivowyFFCZH/cSjNikZTlPnCr7YHsYBaU2mnhMe+7rQCAsHmjQxQipXwu8bgEQGUkI6C9L3yn1dyJwPQ3rFsFG5gFOc1F5VSCgipKRNeJLEpgtxiVppxbB8BhhCRVbQr99sJ3Wt7oQoT+P76KfGoBNt+2wvTb8QSinGyqfhD4ki7YED2OK0p6RNZ9qWn3g36J6KIIomYpShr+AOTV9BdTwY5ghPWvKEY8ApIjejgZFAqDYWDSXGQ24hqKYK1aU5BsnY4zSK7VfVO2QerEZUZW3JoPws/Gf/lKi0ghrMSupU2BokTSKVQzmWrx0VhHc6BXwSp0nU4fj2iKw86AkV4xRHNMUq+5SBqzJnCI7atJL15PRBWak2FXBdXWpWEn8wGNaichxJagOa4PRyEBdHpzzWvMyUGniw4i4PeGwyQwTXFxXWBlbF6PJhAAPL4KYsPLfMKjOjUZxSChKf6giPqpeT1dFzmdcSYL/8nNv3W5nmMhlNWgikdcwGv4oMts30WgQMJC4TOy+qieAyoyEsF+DvsNHOUYBBK0WpnP0SgWxlgOCCIG9UdrjS9Yb5D40lz+t5fAtuzmEKrqJ4VHg88tqHqFeq877SYTr5j5EmueN+lTNOD3NxwYjq1nPtD10jjzqLiWWaBaKHqeVxx8qY5FUh376Bjujy26HN4+D4Nph0mV2fB9rBUfrY3CnKkLHGLj1j+2YzVfNaAmaYZJpoCnri5pVwdFr5BJwhIxKcewYcsfXXFDL8zdQHL9aTL84P5iscDw4WthbZhM+03kVY5hIwb/z2Lr0f1zG6huEq4UhNNxLxnV6/VR0htPw6DEEVOnc/V927D0/gI2bzzAzY1gU9HUCaUSghL8rpO07o4c/Jt7wJs37eJSCIIqM7AX5xS79qyuvvrG46YN+7hl7NuwaS8G/h9hy+Zjh/Zs3LGBYcfGPYeO7dyy7j9+Ce8BzWy6I9P5RSYAAAAASUVORK5CYII=" })));
+      React__default['default'].createElement("image", { width: 90, height: 90, href: "images/bee/9.png" })));
 };
 
-var Icon$x = function (props) {
+var Icon$w = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 48 48" }, props),
       React__default['default'].createElement("path", { d: "M38 10H34C34 7.79086 32.2091 6 30 6H18C15.7909 6 14 7.79086 14 10H10C7.8 10 6 11.8 6 14V16C6 21.1 9.84 25.26 14.78 25.88C16.04 28.88 18.74 31.14 22 31.8V38H16C14.8954 38 14 38.8954 14 40C14 41.1046 14.8954 42 16 42H32C33.1046 42 34 41.1046 34 40C34 38.8954 33.1046 38 32 38H26V31.8C29.26 31.14 31.96 28.88 33.22 25.88C38.16 25.26 42 21.1 42 16V14C42 11.8 40.2 10 38 10ZM10 16V14H14V21.64C11.68 20.8 10 18.6 10 16ZM24 28C20.7 28 18 25.3 18 22V10H30V22C30 25.3 27.3 28 24 28ZM38 16C38 18.6 36.32 20.8 34 21.64V14H38V16Z" })));
 };
 
-var Icon$y = function (props) {
+var Icon$x = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 20 20" }, props),
       React__default['default'].createElement("path", { d: "M5 10C5 10.55 5.45 11 6 11H14C14.55 11 15 10.55 15 10C15 9.45 14.55 9 14 9H6C5.45 9 5 9.45 5 10ZM10 0C4.48 0 0 4.48 0 10C0 15.52 4.48 20 10 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 10 0ZM10 18C5.59 18 2 14.41 2 10C2 5.59 5.59 2 10 2C14.41 2 18 5.59 18 10C18 14.41 14.41 18 10 18Z" })));
 };
 
-var Icon$z = function (props) {
+var Icon$y = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M23 12L20.56 9.21L20.9 5.52L17.29 4.7L15.4 1.5L12 2.96L8.6 1.5L6.71 4.69L3.1 5.5L3.44 9.2L1 12L3.44 14.79L3.1 18.49L6.71 19.31L8.6 22.5L12 21.03L15.4 22.49L17.29 19.3L20.9 18.48L20.56 14.79L23 12ZM9.38 16.01L7 13.61C6.61 13.22 6.61 12.59 7 12.2L7.07 12.13C7.46 11.74 8.1 11.74 8.49 12.13L10.1 13.75L15.25 8.59C15.64 8.2 16.28 8.2 16.67 8.59L16.74 8.66C17.13 9.05 17.13 9.68 16.74 10.07L10.82 16.01C10.41 16.4 9.78 16.4 9.38 16.01Z" })));
 };
 
-var Icon$A = function (props) {
+var Icon$z = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 34 38" }, props),
       React__default['default'].createElement("rect", { x: "8.83594", width: "5.30132", height: "17.3191", rx: "2.65066", fill: "#D1884F" }),
       React__default['default'].createElement("rect", { x: "19.4385", width: "5.30132", height: "17.3191", rx: "2.65066", fill: "#D1884F" }),
@@ -455,25 +440,25 @@ var Icon$A = function (props) {
       React__default['default'].createElement("ellipse", { cx: "21.2056", cy: "19.9172", rx: "1.76711", ry: "2.59786", fill: "white" })));
 };
 
-var Icon$B = function (props) {
+var Icon$A = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 80 80" }, props),
       React__default['default'].createElement("g", { clipPath: "url(#clip0)" },
-        React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M26.0073 13.3635C24.9476 12.4048 23.2491 12.9058 22.8792 14.286C22.6061 15.3055 23.2111 16.3534 24.2305 16.6266L31.8797 18.6762L26.0073 13.3635ZM18.609 13.1418C19.8344 8.56857 25.4621 6.90878 28.9731 10.0851L41.2257 21.1698C43.051 22.8212 41.4235 25.8102 39.0459 25.1732L23.0863 20.8968C19.7085 19.9917 17.7039 16.5197 18.609 13.1418Z", fill: "#7645D9" }),
-        React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M42.264 10.1052C42.7399 8.62854 44.609 8.17749 45.7061 9.27458C46.5164 10.0849 46.5164 11.3987 45.7061 12.209L39.6263 18.2888L42.264 10.1052ZM49.1002 5.88046C45.4652 2.24548 39.2724 3.73996 37.6954 8.63274L32.192 25.7073C31.3722 28.251 34.5252 30.1781 36.415 28.2883L49.1002 15.6031C51.785 12.9183 51.785 8.5653 49.1002 5.88046Z", fill: "#7645D9" }),
+        React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M26.0073 13.3635C24.9476 12.4048 23.2491 12.9058 22.8792 14.286C22.6061 15.3055 23.2111 16.3534 24.2305 16.6266L31.8797 18.6762L26.0073 13.3635ZM18.609 13.1418C19.8344 8.56857 25.4621 6.90878 28.9731 10.0851L41.2257 21.1698C43.051 22.8212 41.4235 25.8102 39.0459 25.1732L23.0863 20.8968C19.7085 19.9917 17.7039 16.5197 18.609 13.1418Z", fill: "#e29900" }),
+        React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M42.264 10.1052C42.7399 8.62854 44.609 8.17749 45.7061 9.27458C46.5164 10.0849 46.5164 11.3987 45.7061 12.209L39.6263 18.2888L42.264 10.1052ZM49.1002 5.88046C45.4652 2.24548 39.2724 3.73996 37.6954 8.63274L32.192 25.7073C31.3722 28.251 34.5252 30.1781 36.415 28.2883L49.1002 15.6031C51.785 12.9183 51.785 8.5653 49.1002 5.88046Z", fill: "#e29900" }),
         React__default['default'].createElement("path", { opacity: "0.6", d: "M70.9047 42.5535C71.2363 43.8171 73.0301 43.8171 73.3617 42.5535L74.3564 38.7636C74.4727 38.3202 74.819 37.9739 75.2624 37.8575L79.0523 36.8629C80.3159 36.5313 80.3159 34.7375 79.0523 34.4059L75.2624 33.4112C74.819 33.2949 74.4727 32.9486 74.3564 32.5051L73.3617 28.7153C73.0301 27.4517 71.2363 27.4517 70.9047 28.7153L69.91 32.5051C69.7937 32.9486 69.4474 33.2949 69.004 33.4112L65.2141 34.4059C63.9505 34.7375 63.9505 36.5313 65.2141 36.8629L69.004 37.8575C69.4474 37.9739 69.7937 38.3202 69.91 38.7636L70.9047 42.5535Z", fill: "#53DEE9" }),
         React__default['default'].createElement("path", { d: "M67.9738 14.5792C67.9699 15.345 68.9855 15.6172 69.365 14.952L70.5032 12.957C70.6364 12.7235 70.885 12.58 71.1538 12.5814L73.4506 12.5932C74.2164 12.5971 74.4886 11.5814 73.8234 11.202L71.8284 10.0637C71.5949 9.93057 71.4514 9.68195 71.4528 9.41322L71.4646 7.11635C71.4685 6.35056 70.4528 6.07841 70.0734 6.74357L68.9351 8.73862C68.802 8.97203 68.5533 9.11558 68.2846 9.1142L65.9877 9.10239C65.222 9.09846 64.9498 10.1141 65.615 10.4936L67.61 11.6318C67.8434 11.765 67.987 12.0136 67.9856 12.2824L67.9738 14.5792Z", fill: "#53DEE9" }),
         React__default['default'].createElement("path", { opacity: "0.8", d: "M12.6621 19.7326C13.3806 19.544 13.3806 18.5241 12.6621 18.3356L8.79571 17.3208C8.54359 17.2547 8.34669 17.0578 8.28052 16.8056L7.26579 12.9392C7.07722 12.2208 6.05731 12.2208 5.86875 12.9392L4.85402 16.8056C4.78785 17.0578 4.59095 17.2547 4.33883 17.3208L0.472442 18.3356C-0.246022 18.5241 -0.246022 19.544 0.472441 19.7326L4.33883 20.7473C4.59095 20.8135 4.78785 21.0104 4.85402 21.2625L5.86875 25.1289C6.05731 25.8474 7.07722 25.8474 7.26578 25.1289L8.28052 21.2625C8.34669 21.0104 8.54359 20.8135 8.79571 20.7473L12.6621 19.7326Z", fill: "#53DEE9" }),
         React__default['default'].createElement("path", { d: "M16.1463 37.3821C17.0611 33.9679 20.5705 31.9418 23.9847 32.8566L57.9852 41.9671C61.3994 42.8819 63.4256 46.3912 62.5107 49.8054L56.8167 71.0558C55.9019 74.47 52.3925 76.4961 48.9783 75.5813L14.9778 66.4709C11.5636 65.556 9.53745 62.0467 10.4523 58.6325L16.1463 37.3821Z", fill: "url(#paint0_linear)" }),
         React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M57.157 45.058L23.1564 35.9476C21.4493 35.4902 19.6947 36.5032 19.2373 38.2103L13.5432 59.4607C13.0858 61.1678 14.0989 62.9225 15.806 63.3799L49.8066 72.4903C51.5137 72.9477 53.2683 71.9347 53.7257 70.2276L59.4198 48.9772C59.8772 47.2701 58.8641 45.5154 57.157 45.058ZM23.9847 32.8566C20.5705 31.9418 17.0611 33.9679 16.1463 37.3821L10.4523 58.6325C9.53745 62.0467 11.5636 65.556 14.9778 66.4709L48.9783 75.5813C52.3925 76.4961 55.9019 74.47 56.8167 71.0558L62.5107 49.8054C63.4256 46.3912 61.3994 42.8819 57.9852 41.9671L23.9847 32.8566Z", fill: "#0098A1" }),
-        React__default['default'].createElement("path", { d: "M35.9629 36.0654L46.0085 38.7571L37.0016 72.3714L26.956 69.6797L35.9629 36.0654Z", fill: "#7645D9" }),
-        React__default['default'].createElement("path", { d: "M11.8535 53.0029L14.5452 42.9573L61.111 55.4346L58.4193 65.4802L11.8535 53.0029Z", fill: "#7645D9" }),
+        React__default['default'].createElement("path", { d: "M35.9629 36.0654L46.0085 38.7571L37.0016 72.3714L26.956 69.6797L35.9629 36.0654Z", fill: "#e29900" }),
+        React__default['default'].createElement("path", { d: "M11.8535 53.0029L14.5452 42.9573L61.111 55.4346L58.4193 65.4802L11.8535 53.0029Z", fill: "#e29900" }),
         React__default['default'].createElement("g", { style: { mixBlendMode: "multiply" } },
-          React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M30.0918 57.9047L40.1732 60.606L39.7591 62.1515L29.6777 59.4502L30.0918 57.9047ZM42.8724 50.5325L32.791 47.8312L33.2051 46.2857L43.2865 48.987L42.8724 50.5325Z", fill: "#7645D9" })),
+          React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M30.0918 57.9047L40.1732 60.606L39.7591 62.1515L29.6777 59.4502L30.0918 57.9047ZM42.8724 50.5325L32.791 47.8312L33.2051 46.2857L43.2865 48.987L42.8724 50.5325Z", fill: "#e29900" })),
         React__default['default'].createElement("path", { d: "M11.4611 31.1814C10.775 28.6207 12.2946 25.9887 14.8552 25.3026L58.1287 13.7075C60.6893 13.0214 63.3213 14.541 64.0074 17.1016L65.1462 21.3517C65.8324 23.9123 64.3128 26.5443 61.7521 27.2305L18.4787 38.8256C15.918 39.5117 13.286 37.9921 12.5999 35.4314L11.4611 31.1814Z", fill: "url(#paint1_linear)" }),
         React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M58.9569 16.7985L15.6834 28.3936C14.8299 28.6223 14.3233 29.4996 14.552 30.3531L15.6908 34.6032C15.9196 35.4568 16.7969 35.9633 17.6504 35.7346L60.9239 24.1395C61.7775 23.9108 62.284 23.0335 62.0553 22.1799L60.9165 17.9298C60.6878 17.0763 59.8104 16.5698 58.9569 16.7985ZM14.8552 25.3026C12.2946 25.9887 10.775 28.6207 11.4611 31.1814L12.5999 35.4314C13.286 37.9921 15.918 39.5117 18.4787 38.8256L61.7521 27.2305C64.3128 26.5443 65.8324 23.9123 65.1462 21.3517L64.0074 17.1016C63.3213 14.541 60.6893 13.0214 58.1287 13.7075L14.8552 25.3026Z", fill: "#0098A1" }),
-        React__default['default'].createElement("path", { d: "M31.4707 20.8506L41.5163 18.1589L45.1398 31.6818L35.0942 34.3735L31.4707 20.8506Z", fill: "#7645D9" }),
+        React__default['default'].createElement("path", { d: "M31.4707 20.8506L41.5163 18.1589L45.1398 31.6818L35.0942 34.3735L31.4707 20.8506Z", fill: "#e29900" }),
         React__default['default'].createElement("g", { style: { mixBlendMode: "multiply" } },
-          React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M31.9671 22.5998L41.9672 19.7998L41.5673 17.9998L31.3975 20.8215L31.9671 22.5998Z", fill: "#7645D9" }))),
+          React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M31.9671 22.5998L41.9672 19.7998L41.5673 17.9998L31.3975 20.8215L31.9671 22.5998Z", fill: "#e29900" }))),
       React__default['default'].createElement("defs", null,
         React__default['default'].createElement("linearGradient", { id: "paint0_linear", x1: "40.9849", y1: "37.4118", x2: "31.978", y2: "71.0261", gradientUnits: "userSpaceOnUse" },
           React__default['default'].createElement("stop", { stopColor: "#53DEE9" }),
@@ -485,7 +470,7 @@ var Icon$B = function (props) {
           React__default['default'].createElement("rect", { width: "80", height: "80", fill: "white", transform: "matrix(-1 0 0 1 80 0)" })))));
 };
 
-var Icon$C = function (props) {
+var Icon$B = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 80 80" }, props),
       React__default['default'].createElement("path", { d: "M76.2856 28.6526C77.0883 29.4553 77.1989 30.7184 76.548 31.6485C64.6385 48.6643 49.9116 63.5221 33.0019 75.5817L31.6665 76.5341C30.6872 77.2325 29.3467 77.121 28.4962 76.2705L22.4847 70.259C26.0334 66.5844 25.9945 60.7286 22.3678 57.1019C18.7411 53.4752 12.8853 53.4362 9.21067 56.985L3.68116 51.4555C2.62962 50.4039 2.77462 48.6597 3.98536 47.7962L5.32156 46.8433C21.8225 35.0751 36.1934 20.5765 47.815 3.97204C48.6291 2.80897 50.296 2.66297 51.2998 3.66682L56.9276 9.29459C53.3922 12.97 53.4356 18.8158 57.0578 22.438C60.6799 26.0601 66.5257 26.1035 70.2011 22.5681L76.2856 28.6526Z", fill: "#DBCDF9" }),
       React__default['default'].createElement("path", { d: "M78.9507 30.3151L57.459 57.5291L29.6615 78.5708L24.3156 73.1863L22.3868 70.8482L24.3156 68.0575L24.9915 65.2668L24.6194 62.29L23.5031 59.4993L21.6426 57.2668L19.4101 55.7784L16.9915 55.0342H14.0147L10.8519 56.1505L8.99148 57.8249L4.52637 52.4296L11.7898 51.3463C34.3187 47.9863 55.6053 38.8899 73.6048 24.9307L78.9507 30.3151Z", fill: "#A28BD4" }),
@@ -501,7 +486,7 @@ var Icon$C = function (props) {
       React__default['default'].createElement("ellipse", { rx: "1.79015", ry: "2.60385", transform: "matrix(0.707107 -0.707106 0.707107 0.707106 43.5768 43.8947)", fill: "#DBCDF9" })));
 };
 
-var Icon$D = function (props) {
+var Icon$C = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 48 48" }, props),
       React__default['default'].createElement("circle", { cx: "24", cy: "24", r: "24", fill: "url(#paint0_linear)" }),
       React__default['default'].createElement("path", { d: "M39.0623 18.9777C39.3983 19.3138 39.4447 19.8426 39.1721 20.232C34.1862 27.3557 28.0207 33.576 20.9413 38.6248L20.3823 39.0235C19.9723 39.3159 19.4111 39.2692 19.055 38.9132L16.5383 36.3964C18.024 34.858 18.0077 32.4065 16.4893 30.8881C14.971 29.3698 12.5194 29.3535 10.981 30.8392L8.66608 28.5242C8.22585 28.084 8.28655 27.3538 8.79343 26.9923L9.35284 26.5933C16.261 21.6665 22.2775 15.5966 27.1429 8.64507C27.4837 8.15815 28.1816 8.09702 28.6019 8.51729L30.958 10.8734C29.4778 12.4121 29.496 14.8595 31.0125 16.3759C32.5289 17.8924 34.9762 17.9105 36.515 16.4304L39.0623 18.9777Z", fill: "#DBCDF9" }),
@@ -525,22 +510,22 @@ var Icon$D = function (props) {
           React__default['default'].createElement("stop", { offset: "0.762157", stopColor: "#24C7D6" })))));
 };
 
-var Icon$E = function (props) {
+var Icon$D = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M15.5 13.9996H14.71L14.43 13.7296C15.63 12.3296 16.25 10.4196 15.91 8.38965C15.44 5.60965 13.12 3.38965 10.32 3.04965C6.09001 2.52965 2.53002 6.08965 3.05002 10.3196C3.39002 13.1196 5.61002 15.4396 8.39002 15.9096C10.42 16.2496 12.33 15.6296 13.73 14.4296L14 14.7096V15.4996L18.25 19.7496C18.66 20.1596 19.33 20.1596 19.74 19.7496C20.15 19.3396 20.15 18.6696 19.74 18.2596L15.5 13.9996ZM9.50002 13.9996C7.01002 13.9996 5.00002 11.9896 5.00002 9.49965C5.00002 7.00965 7.01002 4.99965 9.50002 4.99965C11.99 4.99965 14 7.00965 14 9.49965C14 11.9896 11.99 13.9996 9.50002 13.9996Z" })));
 };
 
-var Icon$F = function (props) {
+var Icon$E = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 25" }, props),
       React__default['default'].createElement("path", { d: "M16 17.01V11C16 10.45 15.55 10 15 10C14.45 10 14 10.45 14 11V17.01H12.21C11.76 17.01 11.54 17.55 11.86 17.86L14.65 20.64C14.85 20.83 15.16 20.83 15.36 20.64L18.15 17.86C18.47 17.55 18.24 17.01 17.8 17.01H16ZM8.65003 3.35002L5.86003 6.14002C5.54003 6.45002 5.76003 6.99002 6.21003 6.99002H8.00003V13C8.00003 13.55 8.45003 14 9.00003 14C9.55003 14 10 13.55 10 13V6.99002H11.79C12.24 6.99002 12.46 6.45002 12.14 6.14002L9.35003 3.35002C9.16003 3.16002 8.84003 3.16002 8.65003 3.35002Z" })));
 };
 
-var Icon$G = function (props) {
+var Icon$F = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 25" }, props),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M18.86 4.86003L21.65 7.65003C21.84 7.84003 21.84 8.16003 21.64 8.35003L18.85 11.14C18.54 11.46 18 11.24 18 10.79V9.00003H4C3.45 9.00003 3 8.55003 3 8.00003C3 7.45003 3.45 7.00003 4 7.00003H18V5.21003C18 4.76003 18.54 4.54003 18.86 4.86003ZM5.14001 19.14L2.35001 16.35C2.16001 16.16 2.16001 15.84 2.36001 15.65L5.15001 12.86C5.46001 12.54 6.00001 12.76 6.00001 13.21V15H20C20.55 15 21 15.45 21 16C21 16.55 20.55 17 20 17H6.00001V18.79C6.00001 19.24 5.46001 19.46 5.14001 19.14Z" })));
 };
 
-var Icon$H = function (props) {
+var Icon$G = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M4.47 20.9999H19.53C21.07 20.9999 22.03 19.3299 21.26 17.9999L13.73 4.98993C12.96 3.65993 11.04 3.65993 10.27 4.98993L2.74 17.9999C1.97 19.3299 2.93 20.9999 4.47 20.9999ZM12 13.9999C11.45 13.9999 11 13.5499 11 12.9999V10.9999C11 10.4499 11.45 9.99993 12 9.99993C12.55 9.99993 13 10.4499 13 10.9999V12.9999C13 13.5499 12.55 13.9999 12 13.9999ZM13 17.9999H11V15.9999H13V17.9999Z" })));
 };
@@ -848,30 +833,20 @@ var _a;
 var style = (_a = {},
   _a[sizes$1.MD] = {
       fontSize: "20px",
-      fontSizeLg: "20px",
   },
   _a[sizes$1.LG] = {
       fontSize: "24px",
-      fontSizeLg: "24px",
   },
   _a[sizes$1.XL] = {
-      fontSize: "32px",
-      fontSizeLg: "40px",
+      fontSize: "40px",
   },
   _a[sizes$1.XXL] = {
-      fontSize: "48px",
-      fontSizeLg: "64px",
+      fontSize: "64px",
   },
   _a);
-var Heading = styled__default['default'](Text).attrs({ bold: true })(templateObject_1$g || (templateObject_1$g = __makeTemplateObject(["\n  font-size: ", ";\n  font-weight: 600;\n  line-height: 1.1;\n\n  ", " {\n    font-size: ", ";\n  }\n"], ["\n  font-size: ", ";\n  font-weight: 600;\n  line-height: 1.1;\n\n  ", " {\n    font-size: ", ";\n  }\n"])), function (_a) {
+var Heading = styled__default['default'](Text).attrs({ bold: true })(templateObject_1$g || (templateObject_1$g = __makeTemplateObject(["\n  ", "\n  font-weight:600;\n  line-height: 1.1;\n"], ["\n  ", "\n  font-weight:600;\n  line-height: 1.1;\n"])), function (_a) {
     var size = _a.size;
-    return style[size || sizes$1.MD].fontSize;
-}, function (_a) {
-    var theme = _a.theme;
-    return theme.mediaQueries.lg;
-}, function (_a) {
-    var size = _a.size;
-    return style[size || sizes$1.MD].fontSizeLg;
+    return style[size || sizes$1.MD];
 });
 Heading.defaultProps = {
     as: tags.H2,
@@ -1123,7 +1098,7 @@ var LinkExternal = function (_a) {
     var children = _a.children, props = __rest(_a, ["children"]);
     return (React__default['default'].createElement(Link, __assign({ external: true }, props),
       children,
-      React__default['default'].createElement(Icon$u, { color: "primary", ml: "4px" })));
+      React__default['default'].createElement(Icon$t, { color: "primary", ml: "4px" })));
 };
 
 var Bar = styled__default['default'].div(templateObject_1$p || (templateObject_1$p = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 0;\n  background-color: ", ";\n  border-top-left-radius: 32px;\n  border-bottom-left-radius: 32px;\n  height: 16px;\n  transition: width 200ms ease;\n"], ["\n  position: absolute;\n  top: 0;\n  left: 0;\n  background-color: ", ";\n  border-top-left-radius: 32px;\n  border-bottom-left-radius: 32px;\n  height: 16px;\n  transition: width 200ms ease;\n"])), function (props) { return (props.primary ? props.theme.colors.secondary : props.theme.colors.secondary + "80"); });
@@ -1155,50 +1130,22 @@ var Progress = function (_a) {
     var _b = _a.primaryStep, primaryStep = _b === void 0 ? 0 : _b, _c = _a.secondaryStep, secondaryStep = _c === void 0 ? null : _c, _d = _a.showProgressBunny, showProgressBunny = _d === void 0 ? false : _d;
     return (React__default['default'].createElement(StyledProgress, null,
       showProgressBunny && (React__default['default'].createElement(ProgressBunnyWrapper, { style: { left: stepGuard(primaryStep) + "%" } },
-      React__default['default'].createElement(Icon$A, null))),
+      React__default['default'].createElement(Icon$z, null))),
       React__default['default'].createElement(Bar, { primary: true, style: { width: stepGuard(primaryStep) + "%" } }),
       secondaryStep ? React__default['default'].createElement(Bar, { style: { width: stepGuard(secondaryStep) + "%" } }) : null));
 };
 
-// const rotate = keyframes`
-//   from {
-//     transform: rotate(0deg);
-//   }
-//   to {
-//     transform: rotate(360deg);
-//   }
-// `;
-//
-// const float = keyframes`
-// 	0% {
-// 		transform: translatey(0px);
-// 	}
-// 	50% {
-// 		transform: translatey(10px);
-// 	}
-// 	100% {
-// 		transform: translatey(0px);
-// 	}
-// `;
-var bounce = styled.keyframes(templateObject_1$r || (templateObject_1$r = __makeTemplateObject(["\n  from,\n  20%,\n  53%,\n  to {\n    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    -webkit-transform: translate3d(0, 0, 0);\n    transform: translate3d(0, 0, 0);\n  }\n\n  40%,\n  43% {\n    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    -webkit-transform: translate3d(0, -30px, 0) scaleY(1.1);\n    transform: translate3d(0, -30px, 0) scaleY(1.1);\n  }\n\n  70% {\n    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    -webkit-transform: translate3d(0, -15px, 0) scaleY(1.05);\n    transform: translate3d(0, -15px, 0) scaleY(1.05);\n  }\n\n  80% {\n    -webkit-transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    -webkit-transform: translate3d(0, 0, 0) scaleY(0.95);\n    transform: translate3d(0, 0, 0) scaleY(0.95);\n  }\n\n  90% {\n    -webkit-transform: translate3d(0, -4px, 0) scaleY(1.02);\n    transform: translate3d(0, -4px, 0) scaleY(1.02);\n  }\n"], ["\n  from,\n  20%,\n  53%,\n  to {\n    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    -webkit-transform: translate3d(0, 0, 0);\n    transform: translate3d(0, 0, 0);\n  }\n\n  40%,\n  43% {\n    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    -webkit-transform: translate3d(0, -30px, 0) scaleY(1.1);\n    transform: translate3d(0, -30px, 0) scaleY(1.1);\n  }\n\n  70% {\n    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n    -webkit-transform: translate3d(0, -15px, 0) scaleY(1.05);\n    transform: translate3d(0, -15px, 0) scaleY(1.05);\n  }\n\n  80% {\n    -webkit-transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);\n    -webkit-transform: translate3d(0, 0, 0) scaleY(0.95);\n    transform: translate3d(0, 0, 0) scaleY(0.95);\n  }\n\n  90% {\n    -webkit-transform: translate3d(0, -4px, 0) scaleY(1.02);\n    transform: translate3d(0, -4px, 0) scaleY(1.02);\n  }\n"])));
+var rotate$1 = styled.keyframes(templateObject_1$r || (templateObject_1$r = __makeTemplateObject(["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"], ["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"])));
+var SpinnerIcon = function (props) {
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 96 96" }, props),
+      React__default['default'].createElement("image", { width: "96", height: "96", href: "images/bee/9.png" })));
+};
 var Container$1 = styled__default['default'].div(templateObject_2$6 || (templateObject_2$6 = __makeTemplateObject(["\n  position: relative;\n"], ["\n  position: relative;\n"])));
-// const RotatingPancakeIcon = styled(PancakeIcon)`
-//   position: absolute;
-//   top: 0;
-//   left: 0;
-//   animation: ${rotate} 2s linear infinite;
-//   transform: translate3d(0, 0, 0);
-// `;
-//
-// const FloatingPanIcon = styled(PanIcon)`
-//   animation: ${float} 6s ease-in-out infinite;
-//   transform: translate3d(0, 0, 0);
-// `;
-var BounceLogoIcon = styled__default['default'](Icon$q)(templateObject_3$2 || (templateObject_3$2 = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s ease-in-out infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s ease-in-out infinite;\n  transform: translate3d(0, 0, 0);\n"])), bounce);
+var RotatingPancakeIcon = styled__default['default'](SpinnerIcon)(templateObject_3$2 || (templateObject_3$2 = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"])), rotate$1);
 var Spinner = function (_a) {
     var _b = _a.size, size = _b === void 0 ? 128 : _b;
     return (React__default['default'].createElement(Container$1, null,
-      React__default['default'].createElement(BounceLogoIcon, { width: size * 0.5 + "px" })));
+      React__default['default'].createElement(RotatingPancakeIcon, { width: size * 0.5 + "px" })));
 };
 var templateObject_1$r, templateObject_2$6, templateObject_3$2;
 
@@ -1231,64 +1178,32 @@ var Skeleton = function (_a) {
 };
 var templateObject_1$s, templateObject_2$7, templateObject_3$3, templateObject_4$1, templateObject_5;
 
-var scaleKeyValues = {
-    sm: {
-        handleHeight: "16px",
-        handleWidth: "16px",
-        handleLeft: "2px",
-        handleTop: "2px",
-        checkedLeft: "calc(100% - 18px)",
-        toggleHeight: "20px",
-        toggleWidth: "36px",
-    },
-    md: {
-        handleHeight: "32px",
-        handleWidth: "32px",
-        handleLeft: "4px",
-        handleTop: "4px",
-        checkedLeft: "calc(100% - 36px)",
-        toggleHeight: "40px",
-        toggleWidth: "72px",
-    },
-};
-var getScale$2 = function (property) { return function (_a) {
-    var _b = _a.scale, scale = _b === void 0 ? scales.MD : _b;
-    return scaleKeyValues[scale][property];
-}; };
-var Handle = styled__default['default'].div(templateObject_1$t || (templateObject_1$t = __makeTemplateObject(["\n  background-color: ", ";\n  border-radius: 50%;\n  cursor: pointer;\n  height: ", ";\n  left: ", ";\n  position: absolute;\n  top: ", ";\n  transition: left 200ms ease-in;\n  width: ", ";\n  z-index: 1;\n"], ["\n  background-color: ", ";\n  border-radius: 50%;\n  cursor: pointer;\n  height: ", ";\n  left: ", ";\n  position: absolute;\n  top: ", ";\n  transition: left 200ms ease-in;\n  width: ", ";\n  z-index: 1;\n"])), function (_a) {
+var Handle = styled__default['default'].div(templateObject_1$t || (templateObject_1$t = __makeTemplateObject(["\n  background-color: ", ";\n  border-radius: 50%;\n  cursor: pointer;\n  height: 32px;\n  left: 4px;\n  position: absolute;\n  top: 4px;\n  transition: left 200ms ease-in;\n  width: 32px;\n  z-index: 1;\n"], ["\n  background-color: ", ";\n  border-radius: 50%;\n  cursor: pointer;\n  height: 32px;\n  left: 4px;\n  position: absolute;\n  top: 4px;\n  transition: left 200ms ease-in;\n  width: 32px;\n  z-index: 1;\n"])), function (_a) {
     var theme = _a.theme;
     return theme.toggle.handleBackground;
-}, getScale$2("handleHeight"), getScale$2("handleLeft"), getScale$2("handleTop"), getScale$2("handleWidth"));
-var Input$1 = styled__default['default'].input(templateObject_2$8 || (templateObject_2$8 = __makeTemplateObject(["\n  cursor: pointer;\n  opacity: 0;\n  height: 100%;\n  position: absolute;\n  width: 100%;\n  z-index: 3;\n\n  &:checked + ", " {\n    left: ", ";\n  }\n\n  &:focus + ", " {\n    box-shadow: ", ";\n  }\n\n  &:hover + ", ":not(:disabled):not(:checked) {\n    box-shadow: ", ";\n  }\n"], ["\n  cursor: pointer;\n  opacity: 0;\n  height: 100%;\n  position: absolute;\n  width: 100%;\n  z-index: 3;\n\n  &:checked + ", " {\n    left: ", ";\n  }\n\n  &:focus + ", " {\n    box-shadow: ", ";\n  }\n\n  &:hover + ", ":not(:disabled):not(:checked) {\n    box-shadow: ", ";\n  }\n"])), Handle, getScale$2("checkedLeft"), Handle, function (_a) {
+});
+var Input$1 = styled__default['default'].input(templateObject_2$8 || (templateObject_2$8 = __makeTemplateObject(["\n  cursor: pointer;\n  opacity: 0;\n  height: 100%;\n  position: absolute;\n  width: 100%;\n  z-index: 3;\n\n  &:checked + ", " {\n    left: calc(100% - 36px);\n  }\n\n  &:focus + ", " {\n    box-shadow: ", ";\n  }\n\n  &:hover + ", ":not(:disabled):not(:checked) {\n    box-shadow: ", ";\n  }\n"], ["\n  cursor: pointer;\n  opacity: 0;\n  height: 100%;\n  position: absolute;\n  width: 100%;\n  z-index: 3;\n\n  &:checked + ", " {\n    left: calc(100% - 36px);\n  }\n\n  &:focus + ", " {\n    box-shadow: ", ";\n  }\n\n  &:hover + ", ":not(:disabled):not(:checked) {\n    box-shadow: ", ";\n  }\n"])), Handle, Handle, function (_a) {
     var theme = _a.theme;
     return theme.shadows.focus;
 }, Handle, function (_a) {
     var theme = _a.theme;
     return theme.shadows.focus;
 });
-var StyledToggle = styled__default['default'].div(templateObject_3$4 || (templateObject_3$4 = __makeTemplateObject(["\n  align-items: center;\n  background-color: ", ";\n  border-radius: 24px;\n  box-shadow: ", ";\n  cursor: pointer;\n  display: inline-flex;\n  height: ", ";\n  position: relative;\n  transition: background-color 200ms;\n  width: ", ";\n"], ["\n  align-items: center;\n  background-color: ", ";\n  border-radius: 24px;\n  box-shadow: ", ";\n  cursor: pointer;\n  display: inline-flex;\n  height: ", ";\n  position: relative;\n  transition: background-color 200ms;\n  width: ", ";\n"])), function (_a) {
+var StyledToggle = styled__default['default'].div(templateObject_3$4 || (templateObject_3$4 = __makeTemplateObject(["\n  align-items: center;\n  background-color: ", ";\n  border-radius: 24px;\n  box-shadow: ", ";\n  cursor: pointer;\n  display: inline-flex;\n  height: 40px;\n  position: relative;\n  transition: background-color 200ms;\n  width: 72px;\n"], ["\n  align-items: center;\n  background-color: ", ";\n  border-radius: 24px;\n  box-shadow: ", ";\n  cursor: pointer;\n  display: inline-flex;\n  height: 40px;\n  position: relative;\n  transition: background-color 200ms;\n  width: 72px;\n"])), function (_a) {
     var theme = _a.theme, checked = _a.checked;
     return theme.colors[checked ? "success" : "input"];
 }, function (_a) {
     var theme = _a.theme;
     return theme.shadows.inset;
-}, getScale$2("toggleHeight"), getScale$2("toggleWidth"));
+});
 var templateObject_1$t, templateObject_2$8, templateObject_3$4;
 
-var scales$3 = {
-    SM: "sm",
-    MD: "md",
-};
-
 var Toggle = function (_a) {
-    var checked = _a.checked, _b = _a.scale, scale = _b === void 0 ? scales$3.MD : _b, props = __rest(_a, ["checked", "scale"]);
+    var checked = _a.checked, props = __rest(_a, ["checked"]);
     var isChecked = !!checked;
-    return (React__default['default'].createElement(StyledToggle, { checked: isChecked, scale: scale },
-      React__default['default'].createElement(Input$1, __assign({ checked: checked, scale: scale }, props, { type: "checkbox" })),
-      React__default['default'].createElement(Handle, { scale: scale })));
-};
-Toggle.defaultProps = {
-    scale: scales$3.MD,
+    return (React__default['default'].createElement(StyledToggle, { checked: isChecked },
+      React__default['default'].createElement(Input$1, __assign({ checked: checked }, props, { type: "checkbox" })),
+      React__default['default'].createElement(Handle, null)));
 };
 
 var byTextAscending = function (getTextProperty) { return function (objectA, objectB) {
@@ -1378,16 +1293,7 @@ var createReducer = function () { return function (state, action) {
             if (state.paginationEnabled === true) {
                 rows = getPaginatedData(rows, state.pagination.perPage, state.pagination.page);
             }
-            columnCopy = state.columns.map(function (column) {
-                if (state.sortColumn === column.name) {
-                    return __assign(__assign({}, column), { sorted: {
-                            on: true,
-                            asc: column.sorted.asc,
-                        } });
-                }
-                return column;
-            });
-            return __assign(__assign({}, state), { rows: rows, originalRows: action.data, columns: columnCopy });
+            return __assign(__assign({}, state), { rows: rows, originalRows: action.data });
         case "NEXT_PAGE":
             nextPage = state.pagination.page + 1;
             return __assign(__assign({}, state), { rows: getPaginatedData(state.originalRows, state.pagination.perPage, nextPage), pagination: __assign(__assign({}, state.pagination), { page: nextPage, canNext: nextPage * state.pagination.perPage < state.originalRows.length, canPrev: nextPage !== 1 }) });
@@ -1528,7 +1434,6 @@ var useTable = function (columns, data, options) {
         return columns.map(function (column) {
             return __assign(__assign({}, column), { label: column.label ? column.label : column.name, hidden: column.hidden ? column.hidden : false, sort: column.sort, sorted: {
                     on: false,
-                    asc: false,
                 } });
         });
     }, [columns]);
@@ -1565,7 +1470,7 @@ var useTable = function (columns, data, options) {
         selectedRows: [],
         toggleAllState: false,
         filterOn: !!(options === null || options === void 0 ? void 0 : options.filter),
-        sortColumn: options === null || options === void 0 ? void 0 : options.sortColumn,
+        sortColumn: null,
         paginationEnabled: !!(options === null || options === void 0 ? void 0 : options.pagination),
         pagination: {
             page: 1,
@@ -1634,7 +1539,7 @@ var shadows = {
     active: "0px 0px 0px 1px #0098A1, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
     success: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
     warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
-    focus: "0px 0px 0px 1px #7645D9, 0px 0px 0px 4px rgba(118, 69, 217, 0.6)",
+    focus: "0px 0px 0px 1px #e29900, 0px 0px 0px 4px rgba(118, 69, 217, 0.6)",
     inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
 };
 var spacing = [0, 4, 8, 16, 24, 32, 48, 64];
@@ -1851,7 +1756,7 @@ var Modal = function (_a) {
 };
 var templateObject_1$u, templateObject_2$9, templateObject_3$5;
 
-var Overlay = styled__default['default'].div.attrs({ role: "presentation" })(templateObject_1$v || (templateObject_1$v = __makeTemplateObject(["\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  background-color: #5a8deea8;\n  transition: opacity 0.4s;\n  opacity: ", ";\n  z-index: ", ";\n  pointer-events: ", ";\n"], ["\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  background-color: #5a8deea8;\n  transition: opacity 0.4s;\n  opacity: ", ";\n  z-index: ", ";\n  pointer-events: ", ";\n"])), function (_a) {
+var Overlay = styled__default['default'].div.attrs({ role: "presentation" })(templateObject_1$v || (templateObject_1$v = __makeTemplateObject(["\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  background-color: #f5a700;\n  transition: opacity 0.4s;\n  opacity: ", ";\n  z-index: ", ";\n  pointer-events: ", ";\n"], ["\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  background-color: #f5a700;\n  transition: opacity 0.4s;\n  opacity: ", ";\n  z-index: ", ";\n  pointer-events: ", ";\n"])), function (_a) {
     var show = _a.show;
     return (show ? 0.6 : 0);
 }, function (_a) {
@@ -1921,7 +1826,7 @@ var useModal = function (modal, closeOnOverlayClick) {
     return [onPresentCallback, onDismiss];
 };
 
-var Icon$I = function (props) {
+var Icon$H = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M13.7803 2.71967C14.0732 3.01256 14.0732 3.48744 13.7803 3.78033L12.8107 4.75L14.0307 5.96999H20C21.1 5.96999 22 6.86999 22 7.96999V12.73C21.28 12.25 20.43 11.97 19.5 11.97C17.19 11.97 15.3 13.73 15.05 15.97H11.91C11.96 15.64 12 15.31 12 14.97C12 13.43 11.41 12.03 10.46 10.97H11C12.1 10.97 13 10.07 13 8.96999V7.06068L11.75 5.81066L10.7803 6.78033C10.4874 7.07322 10.0126 7.07322 9.71967 6.78033C9.42678 6.48744 9.42678 6.01256 9.71967 5.71967L12.7197 2.71967C13.0126 2.42678 13.4874 2.42678 13.7803 2.71967Z" }),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M11 15C11 17.7614 8.76142 20 6 20C3.23858 20 1 17.7614 1 15C1 12.2386 3.23858 10 6 10C8.76142 10 11 12.2386 11 15ZM9 15C9 16.6569 7.65685 18 6 18C4.34315 18 3 16.6569 3 15C3 13.3431 4.34315 12 6 12C7.65685 12 9 13.3431 9 15Z" }),
@@ -1929,73 +1834,70 @@ var Icon$I = function (props) {
       React__default['default'].createElement("path", { d: "M9 8.96997H4C3.45 8.96997 3 8.52997 3 7.96997C3 7.41997 3.45 6.96997 4 6.96997H7C8.1 6.96997 9 7.86997 9 8.96997Z" })));
 };
 
-var Icon$J = function (props) {
+var Icon$I = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M12 12.75C13.63 12.75 15.07 13.14 16.24 13.65C17.32 14.13 18 15.21 18 16.38V17C18 17.55 17.55 18 17 18H7C6.45 18 6 17.55 6 17V16.39C6 15.21 6.68 14.13 7.76 13.66C8.93 13.14 10.37 12.75 12 12.75ZM4 13C5.1 13 6 12.1 6 11C6 9.9 5.1 9 4 9C2.9 9 2 9.9 2 11C2 12.1 2.9 13 4 13ZM5.13 14.1C4.76 14.04 4.39 14 4 14C3.01 14 2.07 14.21 1.22 14.58C0.48 14.9 0 15.62 0 16.43V17C0 17.55 0.45 18 1 18H4.5V16.39C4.5 15.56 4.73 14.78 5.13 14.1ZM20 13C21.1 13 22 12.1 22 11C22 9.9 21.1 9 20 9C18.9 9 18 9.9 18 11C18 12.1 18.9 13 20 13ZM24 16.43C24 15.62 23.52 14.9 22.78 14.58C21.93 14.21 20.99 14 20 14C19.61 14 19.24 14.04 18.87 14.1C19.27 14.78 19.5 15.56 19.5 16.39V18H23C23.55 18 24 17.55 24 17V16.43ZM12 6C13.66 6 15 7.34 15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6Z" })));
 };
 
-var Icon$K = function (props) {
+var Icon$J = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M4 18H20C20.55 18 21 17.55 21 17C21 16.45 20.55 16 20 16H4C3.45 16 3 16.45 3 17C3 17.55 3.45 18 4 18ZM4 13H20C20.55 13 21 12.55 21 12C21 11.45 20.55 11 20 11H4C3.45 11 3 11.45 3 12C3 12.55 3.45 13 4 13ZM3 7C3 7.55 3.45 8 4 8H20C20.55 8 21 7.55 21 7C21 6.45 20.55 6 20 6H4C3.45 6 3 6.45 3 7Z" })));
 };
 
-var Icon$L = function (props) {
+var Icon$K = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M4 18H15C15.55 18 16 17.55 16 17C16 16.45 15.55 16 15 16H4C3.45 16 3 16.45 3 17C3 17.55 3.45 18 4 18ZM4 13H12C12.55 13 13 12.55 13 12C13 11.45 12.55 11 12 11H4C3.45 11 3 11.45 3 12C3 12.55 3.45 13 4 13ZM3 7C3 7.55 3.45 8 4 8H15C15.55 8 16 7.55 16 7C16 6.45 15.55 6 15 6H4C3.45 6 3 6.45 3 7ZM20.3 14.88L17.42 12L20.3 9.12C20.69 8.73 20.69 8.1 20.3 7.71C19.91 7.32 19.28 7.32 18.89 7.71L15.3 11.3C14.91 11.69 14.91 12.32 15.3 12.71L18.89 16.3C19.28 16.69 19.91 16.69 20.3 16.3C20.68 15.91 20.69 15.27 20.3 14.88Z" })));
 };
 
-var Icon$M = function (props) {
+var Icon$L = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M9.99998 19V14H14V19C14 19.55 14.45 20 15 20H18C18.55 20 19 19.55 19 19V12H20.7C21.16 12 21.38 11.43 21.03 11.13L12.67 3.59997C12.29 3.25997 11.71 3.25997 11.33 3.59997L2.96998 11.13C2.62998 11.43 2.83998 12 3.29998 12H4.99998V19C4.99998 19.55 5.44998 20 5.99998 20H8.99998C9.54998 20 9.99998 19.55 9.99998 19Z" })));
 };
 
-var Icon$N = function (props) {
+var Icon$M = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M21.9 8.89L20.85 4.52C20.63 3.62 19.85 3 18.94 3H16.73H14.72H13H11H9.28001H7.26001H5.05001C4.15001 3 3.36001 3.63 3.15001 4.52L2.10001 8.89C1.86001 9.91 2.08001 10.95 2.72001 11.77C2.80001 11.88 2.91001 11.96 3.00001 12.06V19C3.00001 20.1 3.90001 21 5.00001 21H19C20.1 21 21 20.1 21 19V12.06C21.09 11.97 21.2 11.88 21.28 11.78C21.92 10.96 22.15 9.91 21.9 8.89ZM7.02001 5L6.44001 9.86C6.36001 10.51 5.84001 11 5.23001 11C4.74001 11 4.43001 10.71 4.30001 10.53C4.04001 10.2 3.95001 9.77 4.05001 9.36L5.05001 5H7.02001ZM18.91 4.99L19.96 9.36C20.06 9.78 19.97 10.2 19.71 10.53C19.57 10.71 19.27 11 18.77 11C18.16 11 17.63 10.51 17.56 9.86L16.98 5L18.91 4.99ZM15.51 9.52C15.56 9.91 15.44 10.3 15.18 10.59C14.95 10.85 14.63 11 14.22 11C13.55 11 13 10.41 13 9.69V5H14.96L15.51 9.52ZM11 9.69C11 10.41 10.45 11 9.71001 11C9.37001 11 9.06001 10.85 8.82001 10.59C8.57001 10.3 8.45001 9.91 8.49001 9.52L9.04001 5H11V9.69ZM18 19H6.00001C5.45001 19 5.00001 18.55 5.00001 18V12.97C5.08001 12.98 5.15001 13 5.23001 13C6.10001 13 6.89001 12.64 7.47001 12.05C8.07001 12.65 8.87001 13 9.78001 13C10.65 13 11.43 12.64 12.01 12.07C12.6 12.64 13.4 13 14.3 13C15.14 13 15.94 12.65 16.54 12.05C17.12 12.64 17.91 13 18.78 13C18.86 13 18.93 12.98 19.01 12.97V18C19 18.55 18.55 19 18 19Z" })));
 };
 
-var Icon$O = function (props) {
+var Icon$N = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M5 7C5 6.44772 4.55228 6 4 6C3.44772 6 3 6.44772 3 7V18C3 19.1046 3.89543 20 5 20H20C20.5523 20 21 19.5523 21 19C21 18.4477 20.5523 18 20 18H5V7Z" }),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M19 17H7C6.44772 17 6 16.5523 6 16V12C6 11.4477 6.44772 11 7 11H10V10C10 9.44772 10.4477 9 11 9H14V7C14 6.44772 14.4477 6 15 6H19C19.5523 6 20 6.44772 20 7V16C20 16.5523 19.5523 17 19 17ZM16 8H18V15H16V8ZM12 15H14V11H12V15ZM10 13H8V15H10V13Z" })));
 };
 
-var Icon$P = function (props) {
+var Icon$O = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M11.99 2C6.47 2 2 6.48 2 12C2 17.52 6.47 22 11.99 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 11.99 2ZM18.92 8H15.97C15.65 6.75 15.19 5.55 14.59 4.44C16.43 5.07 17.96 6.35 18.92 8ZM12 4.04C12.83 5.24 13.48 6.57 13.91 8H10.09C10.52 6.57 11.17 5.24 12 4.04ZM4.26 14C4.1 13.36 4 12.69 4 12C4 11.31 4.1 10.64 4.26 10H7.64C7.56 10.66 7.5 11.32 7.5 12C7.5 12.68 7.56 13.34 7.64 14H4.26ZM5.08 16H8.03C8.35 17.25 8.81 18.45 9.41 19.56C7.57 18.93 6.04 17.66 5.08 16ZM8.03 8H5.08C6.04 6.34 7.57 5.07 9.41 4.44C8.81 5.55 8.35 6.75 8.03 8ZM12 19.96C11.17 18.76 10.52 17.43 10.09 16H13.91C13.48 17.43 12.83 18.76 12 19.96ZM14.34 14H9.66C9.57 13.34 9.5 12.68 9.5 12C9.5 11.32 9.57 10.65 9.66 10H14.34C14.43 10.65 14.5 11.32 14.5 12C14.5 12.68 14.43 13.34 14.34 14ZM14.59 19.56C15.19 18.45 15.65 17.25 15.97 16H18.92C17.96 17.65 16.43 18.93 14.59 19.56ZM16.36 14C16.44 13.34 16.5 12.68 16.5 12C16.5 11.32 16.44 10.66 16.36 10H19.74C19.9 10.64 20 11.31 20 12C20 12.69 19.9 13.36 19.74 14H16.36Z" })));
 };
 
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
-    // const textColor = isDark ? "#FFFFFF" : "#000000";
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 243 26" }, props),
-      React__default['default'].createElement("image", { width: "243", height: "26", href: isDark
-            ? "data:image/png;base64,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"
-            : "data:image/png;base64,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" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
+      React__default['default'].createElement("image", { width: "205", height: "26", href: isDark ? 'images/bee/LogoTextNewDark.png' : 'images/bee/LogoTextNewWhite.png' })));
 };
 
-var Icon$Q = function (props) {
+var Icon$P = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M4.1534 13.6089L4.15362 13.61C4.77322 16.8113 7.42207 19.3677 10.647 19.8853L10.6502 19.8858C13.0412 20.2736 15.2625 19.6103 16.9422 18.2833C11.3549 16.2878 7.9748 10.3524 9.26266 4.48816C5.69846 5.77194 3.35817 9.51245 4.1534 13.6089ZM10.0083 2.21054C4.76622 3.2533 1.09895 8.36947 2.19006 13.9901C2.97006 18.0201 6.28006 21.2101 10.3301 21.8601C13.8512 22.4311 17.0955 21.1608 19.2662 18.8587C19.2765 18.8478 19.2866 18.837 19.2968 18.8261C19.4385 18.6745 19.5757 18.5184 19.7079 18.3581C19.7105 18.355 19.713 18.3519 19.7156 18.3487C19.8853 18.1426 20.0469 17.9295 20.2001 17.7101C20.4101 17.4001 20.2401 16.9601 19.8701 16.9201C19.5114 16.8796 19.1602 16.8209 18.817 16.7452C18.7964 16.7406 18.7758 16.736 18.7552 16.7313C18.6676 16.7114 18.5804 16.6903 18.4938 16.6681C18.4919 16.6676 18.4901 16.6672 18.4882 16.6667C13.0234 15.2647 9.72516 9.48006 11.4542 4.03417C11.4549 4.03214 11.4555 4.03012 11.4562 4.0281C11.4875 3.92954 11.5205 3.83109 11.5552 3.73278C11.5565 3.72911 11.5578 3.72543 11.5591 3.72175C11.6768 3.38921 11.8136 3.05829 11.9701 2.73005C12.1301 2.39005 11.8501 2.01005 11.4701 2.03005C11.1954 2.04379 10.924 2.06848 10.6561 2.10368C10.6517 2.10427 10.6472 2.10486 10.6428 2.10545C10.4413 2.13221 10.2418 2.16492 10.0446 2.2034C10.0325 2.20576 10.0204 2.20814 10.0083 2.21054Z" })));
 };
 
-var Icon$R = function (props) {
+var Icon$Q = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M6 10C4.9 10 4 10.9 4 12C4 13.1 4.9 14 6 14C7.1 14 8 13.1 8 12C8 10.9 7.1 10 6 10ZM18 10C16.9 10 16 10.9 16 12C16 13.1 16.9 14 18 14C19.1 14 20 13.1 20 12C20 10.9 19.1 10 18 10ZM12 10C10.9 10 10 10.9 10 12C10 13.1 10.9 14 12 14C13.1 14 14 13.1 14 12C14 10.9 13.1 10 12 10Z" })));
 };
 
-var Icon$S = function (props) {
+var Icon$R = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M12.8533 3.39627C12.4634 2.75821 11.5366 2.75821 11.1467 3.39627L7.42977 9.47855C7.02256 10.1449 7.50213 11 8.28306 11H15.7169C16.4979 11 16.9774 10.1449 16.5702 9.47855L12.8533 3.39627ZM12 5.84L13.93 9H10.06L12 5.84ZM17.5 13C15.01 13 13 15.01 13 17.5C13 19.99 15.01 22 17.5 22C19.99 22 22 19.99 22 17.5C22 15.01 19.99 13 17.5 13ZM17.5 20C16.12 20 15 18.88 15 17.5C15 16.12 16.12 15 17.5 15C18.88 15 20 16.12 20 17.5C20 18.88 18.88 20 17.5 20ZM3 19.5C3 20.6046 3.89543 21.5 5 21.5H9C10.1046 21.5 11 20.6046 11 19.5V15.5C11 14.3954 10.1046 13.5 9 13.5H5C3.89543 13.5 3 14.3954 3 15.5V19.5ZM5 15.5H9V19.5H5V15.5Z" })));
 };
 
-var Icon$T = function (props) {
+var Icon$S = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M7.5 13C7.5 11.8954 8.39543 11 9.5 11H12.5C13.6046 11 14.5 11.8954 14.5 13V15C14.5 16.1046 13.6046 17 12.5 17H9.5C8.39543 17 7.5 16.1046 7.5 15V13Z" }),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M9.5 2C8.39543 2 7.5 2.89543 7.5 4V6.49482C7.5 6.93167 7.2113 7.30895 6.81834 7.49981C5.15004 8.31009 4 10.0207 4 12V17C4 19.2091 5.79086 21 8 21H14C16.2091 21 18 19.2091 18 17V12C18 11.4175 17.9004 10.8583 17.7173 10.3385L17.7892 10.297C19.4786 9.32167 20.0574 7.16153 19.082 5.47221C18.1552 3.86682 16.1534 3.25957 14.5 4.05146V4C14.5 2.89543 13.6046 2 12.5 2H9.5ZM9.5 6.25V4H12.5V6.25H9.5ZM9.22663 7.75C8.89473 8.46917 8.30318 9.00205 7.69211 9.29884C6.68638 9.78731 6 10.8154 6 12V17C6 18.1046 6.89543 19 8 19H14C15.1046 19 16 18.1046 16 17V12C16 10.8154 15.3136 9.78731 14.3079 9.29884C13.6968 9.00205 13.1053 8.46917 12.7734 7.75H9.22663ZM14.5 6.3226V6.49482C14.5 6.93167 14.7887 7.30895 15.1817 7.49981C15.7529 7.77726 16.2634 8.16029 16.6878 8.62352L16.7892 8.56495C17.522 8.1419 17.773 7.20495 17.35 6.47221C16.9346 5.75269 16.0213 5.49542 15.2914 5.89229L14.5 6.3226Z" })));
 };
 
-var Icon$U = function (props) {
+var Icon$T = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M5.66 4.2L6.05 4.59C6.44 4.97 6.44 5.61 6.05 5.99L6.04 6C5.65 6.39 5.03 6.39 4.64 6L4.25 5.61C3.86 5.23 3.86 4.6 4.25 4.21L4.26 4.2C4.64 3.82 5.27 3.81 5.66 4.2Z" }),
       React__default['default'].createElement("path", { d: "M1.99 10.95H3.01C3.56 10.95 4 11.39 4 11.95V11.96C4 12.51 3.56 12.95 3 12.94H1.99C1.44 12.94 1 12.5 1 11.95V11.94C1 11.39 1.44 10.95 1.99 10.95Z" }),
@@ -2008,48 +1910,42 @@ var Icon$U = function (props) {
       React__default['default'].createElement("path", { d: "M5.66 19.69C5.27 20.08 4.64 20.08 4.25 19.69C3.86 19.3 3.86 18.68 4.24 18.28L4.63 17.89C5.02 17.5 5.65 17.5 6.04 17.89L6.05 17.9C6.43 18.28 6.44 18.91 6.05 19.3L5.66 19.69Z" })));
 };
 
-var Icon$V = function (props) {
+var Icon$U = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M12 3C7.02985 3 3 7.02985 3 11.9904C3 16.9606 7.02985 21 12 21C16.9701 21 21 16.9606 21 11.9904C21 7.02985 16.9701 3 12 3ZM16.4328 8.65139C16.3753 9.48614 14.8305 15.7228 14.8305 15.7228C14.8305 15.7228 14.7345 16.0874 14.3987 16.097C14.2836 16.097 14.1301 16.0874 13.9574 15.9243C13.6023 15.6269 12.7964 15.0512 12.0384 14.5235C12.0096 14.5522 11.9808 14.581 11.9424 14.6098C11.7697 14.7633 11.5107 14.984 11.2324 15.2527C11.1269 15.3486 11.0117 15.4542 10.8966 15.5693L10.887 15.5789C10.8198 15.6461 10.7623 15.694 10.7143 15.7324C10.3401 16.0394 10.3017 15.7804 10.3017 15.6461L10.5032 13.4488V13.4296L10.5128 13.4104C10.5224 13.3817 10.5416 13.3721 10.5416 13.3721C10.5416 13.3721 14.4659 9.87953 14.5714 9.50533C14.581 9.48614 14.5522 9.46695 14.5043 9.48614C14.2452 9.57249 9.72601 12.4318 9.22708 12.7484C9.19829 12.7676 9.11194 12.758 9.11194 12.758L6.91471 12.0384C6.91471 12.0384 6.65565 11.9328 6.742 11.693C6.76119 11.645 6.78998 11.597 6.89552 11.5299C7.38486 11.1844 15.8955 8.12367 15.8955 8.12367C15.8955 8.12367 16.1354 8.04691 16.2793 8.09488C16.3465 8.12367 16.3849 8.15245 16.4232 8.2484C16.4328 8.28678 16.4424 8.36354 16.4424 8.44989C16.4424 8.49787 16.4328 8.55544 16.4328 8.65139Z" })));
 };
 
-var Icon$W = function (props) {
+var Icon$V = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M14.3137 3L15.2631 3.94934C14.5597 5.19866 14.7398 6.81097 15.8032 7.87441C16.8667 8.93786 18.479 9.11792 19.7283 8.4146L20.6777 9.36396L17.6569 12.3848L17.1287 11.8566C16.7382 11.4661 16.105 11.4661 15.7145 11.8566C15.3239 12.2471 15.3239 12.8803 15.7145 13.2708L16.2426 13.799L9.36396 20.6777L8.49923 19.8129C9.71921 18.5286 9.69924 16.4983 8.43932 15.2384C7.1794 13.9784 5.14908 13.9585 3.86473 15.1784L3 14.3137L9.87868 7.43503L10.2145 7.77081C10.605 8.16134 11.2382 8.16134 11.6287 7.77081C12.0192 7.38029 12.0192 6.74713 11.6287 6.3566L11.2929 6.02081L14.3137 3ZM12.8995 1.58579C13.6805 0.804738 14.9469 0.804738 15.7279 1.58579L17.299 3.15684C17.6895 3.54736 17.6895 4.18053 17.299 4.57105L17.2175 4.65257C16.7183 5.15173 16.7183 5.96103 17.2175 6.4602C17.7166 6.95936 18.5259 6.95936 19.0251 6.4602L19.1066 6.37868C19.4971 5.98816 20.1303 5.98816 20.5208 6.37868L22.0919 7.94975C22.8729 8.7308 22.8729 9.99713 22.0919 10.7782L10.7782 22.0919C9.99713 22.8729 8.7308 22.8729 7.94975 22.0919L6.37869 20.5208C5.98817 20.1303 5.98817 19.4971 6.37869 19.1066L7.02511 18.4602C7.52427 17.961 7.52427 17.1517 7.02511 16.6526C6.52594 16.1534 5.71664 16.1534 5.21748 16.6526L4.57106 17.299C4.18054 17.6895 3.54737 17.6895 3.15685 17.299L1.58579 15.7279C0.804738 14.9469 0.804738 13.6805 1.58579 12.8995L12.8995 1.58579ZM13.8787 8.6066C13.4882 8.21608 12.855 8.21608 12.4645 8.6066C12.0739 8.99712 12.0739 9.63029 12.4645 10.0208L13.4645 11.0208C13.855 11.4113 14.4882 11.4113 14.8787 11.0208C15.2692 10.6303 15.2692 9.99713 14.8787 9.6066L13.8787 8.6066Z" })));
 };
 
-var Icon$X = function (props) {
+var Icon$W = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M18.86 4.86003L21.65 7.65003C21.84 7.84003 21.84 8.16003 21.64 8.35003L18.85 11.14C18.54 11.46 18 11.24 18 10.79V9.00003H4C3.45 9.00003 3 8.55003 3 8.00003C3 7.45003 3.45 7.00003 4 7.00003H18V5.21003C18 4.76003 18.54 4.54003 18.86 4.86003ZM5.14001 19.14L2.35001 16.35C2.16001 16.16 2.16001 15.84 2.36001 15.65L5.15001 12.86C5.46001 12.54 6.00001 12.76 6.00001 13.21V15H20C20.55 15 21 15.45 21 16C21 16.55 20.55 17 20 17H6.00001V18.79C6.00001 19.24 5.46001 19.46 5.14001 19.14Z" })));
 };
 
-var Icon$Y = function (props) {
+var Icon$X = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
       React__default['default'].createElement("path", { d: "M8.65854 19C15.4488 19 19.1659 13.2338 19.1659 8.23717C19.1659 8.07728 19.1659 7.91739 19.1561 7.7475C19.878 7.21785 20.5024 6.5483 21 5.78881C20.3366 6.08861 19.6244 6.28847 18.8732 6.38841C19.6341 5.91872 20.2195 5.17921 20.5024 4.28981C19.7902 4.72951 19 5.03931 18.1512 5.20919C17.478 4.45969 16.522 4 15.4585 4C13.4195 4 11.761 5.69887 11.761 7.78747C11.761 8.08728 11.8 8.36709 11.8585 8.6469C8.79512 8.497 6.07317 6.97801 4.24878 4.68954C3.92683 5.25916 3.75122 5.90873 3.75122 6.59827C3.75122 7.90739 4.40488 9.06662 5.39024 9.74617C4.78537 9.72618 4.21951 9.5563 3.72195 9.27648C3.72195 9.28648 3.72195 9.30646 3.72195 9.32645C3.72195 11.1552 5 12.6942 6.67805 13.034C6.36585 13.1239 6.0439 13.1639 5.70244 13.1639C5.46829 13.1639 5.23415 13.1439 5.00976 13.0939C5.47805 14.6029 6.8439 15.6922 8.46341 15.7222C7.19512 16.7415 5.60488 17.3411 3.87805 17.3411C3.58537 17.3411 3.28293 17.3311 3 17.2911C4.62927 18.3704 6.57073 19 8.65854 19Z" })));
 };
 
-var Icon$Z = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 600 600" }, props),
-      React__default['default'].createElement("g", null,
-        React__default['default'].createElement("g", null,
-          React__default['default'].createElement("polygon", { points: "295.192,233.703 268.112,229.768 256.001,205.229 243.89,229.768 216.81,233.703 236.405,252.804\n\t\t\t231.779,279.775 256.001,267.041 280.223,279.775 275.597,252.804 \t\t" }))),
-      React__default['default'].createElement("g", null,
-        React__default['default'].createElement("g", null,
-          React__default['default'].createElement("path", { d: "M256.001,103.977c-31.586,15.374-78.494,33.789-135.975,43.166v69.861c0,47.249,15.049,92.153,43.521,129.859\n\t\t\tc23.945,31.71,55.826,55.983,92.454,70.456c36.629-14.473,68.509-38.747,92.454-70.456c28.472-37.706,43.521-82.61,43.521-129.859\n\t\t\tv-69.861C334.495,137.765,287.587,119.351,256.001,103.977z M307.831,263.278l12.235,71.337l-64.065-33.681l-64.065,33.681\n\t\t\tl12.235-71.337l-51.83-50.522l71.626-10.408l32.033-64.905l32.033,64.905l71.626,10.408L307.831,263.278z" }))),
-      React__default['default'].createElement("g", null,
-        React__default['default'].createElement("g", null,
-          React__default['default'].createElement("path", { d: "M466.975,63.273c-61.242,0-112.931-15.548-145.509-28.59c-35.536-14.227-56.752-28.67-56.946-28.803L256.001,0\n\t\t\tl-8.521,5.881c-0.832,0.574-84.517,57.393-202.454,57.393h-15v153.73c0,33.548,5.452,66.603,16.205,98.249\n\t\t\tc10.494,30.882,25.799,59.764,45.492,85.843s43.282,48.708,70.111,67.253c27.493,19.005,57.794,33.298,90.06,42.482L256,512\n\t\t\tl4.106-1.169c32.267-9.184,62.568-23.477,90.06-42.482c26.83-18.546,50.418-41.174,70.111-67.253\n\t\t\tc19.693-26.08,34.999-54.962,45.492-85.843c10.753-31.645,16.205-64.701,16.205-98.249V63.273H466.975z M421.976,217.003\n\t\t\tc0,53.827-17.145,104.982-49.58,147.937c-28.548,37.807-67.015,66.339-111.244,82.513l-5.151,1.884l-5.151-1.884\n\t\t\tc-44.229-16.174-82.695-44.707-111.244-82.513c-32.436-42.955-49.58-94.11-49.58-147.937v-95.9h0l12.993-1.754\n\t\t\tc63.64-8.591,114.627-29.484,146.195-45.499l6.787-3.443l6.787,3.443c31.568,16.015,82.556,36.909,146.195,45.499l12.993,1.754\n\t\t\tV217.003z" })))));
+var Icon$Y = function (props) {
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "-60 -30 600 600" }, props),
+      React__default['default'].createElement("g", { id: "surface1" },
+        React__default['default'].createElement("path", { d: "M 217.996094 158.457031 C 164.203125 158.457031 120.441406 202.21875 120.441406 256.007812 C 120.441406 309.800781 164.203125 353.5625 217.996094 353.5625 C 271.785156 353.5625 315.546875 309.800781 315.546875 256.007812 C 315.546875 202.21875 271.785156 158.457031 217.996094 158.457031 Z M 275.914062 237.636719 L 206.027344 307.523438 C 203.09375 310.457031 199.246094 311.925781 195.402344 311.925781 C 191.558594 311.925781 187.714844 310.460938 184.78125 307.523438 L 158.074219 280.816406 C 152.207031 274.953125 152.207031 265.441406 158.074219 259.574219 C 163.9375 253.707031 173.449219 253.707031 179.316406 259.574219 L 195.402344 275.660156 L 254.671875 216.394531 C 260.535156 210.527344 270.046875 210.527344 275.914062 216.394531 C 281.78125 222.257812 281.78125 231.769531 275.914062 237.636719 Z M 275.914062 237.636719 " }),
+        React__default['default'].createElement("path", { d: "M 435.488281 138.917969 L 435.472656 138.519531 C 435.25 133.601562 435.101562 128.398438 435.011719 122.609375 C 434.59375 94.378906 412.152344 71.027344 383.917969 69.449219 C 325.050781 66.164062 279.511719 46.96875 240.601562 9.042969 L 240.269531 8.726562 C 227.578125 -2.910156 208.433594 -2.910156 195.738281 8.726562 L 195.40625 9.042969 C 156.496094 46.96875 110.957031 66.164062 52.089844 69.453125 C 23.859375 71.027344 1.414062 94.378906 0.996094 122.613281 C 0.910156 128.363281 0.757812 133.566406 0.535156 138.519531 L 0.511719 139.445312 C -0.632812 199.472656 -2.054688 274.179688 22.9375 341.988281 C 36.679688 379.277344 57.492188 411.691406 84.792969 438.335938 C 115.886719 468.679688 156.613281 492.769531 205.839844 509.933594 C 207.441406 510.492188 209.105469 510.945312 210.800781 511.285156 C 213.191406 511.761719 215.597656 512 218.003906 512 C 220.410156 512 222.820312 511.761719 225.207031 511.285156 C 226.902344 510.945312 228.578125 510.488281 230.1875 509.925781 C 279.355469 492.730469 320.039062 468.628906 351.105469 438.289062 C 378.394531 411.636719 399.207031 379.214844 412.960938 341.917969 C 438.046875 273.90625 436.628906 199.058594 435.488281 138.917969 Z M 217.996094 383.605469 C 147.636719 383.605469 90.398438 326.367188 90.398438 256.007812 C 90.398438 185.648438 147.636719 128.410156 217.996094 128.410156 C 288.351562 128.410156 345.59375 185.648438 345.59375 256.007812 C 345.59375 326.367188 288.351562 383.605469 217.996094 383.605469 Z M 217.996094 383.605469 " }))));
 };
 
 var Icon$_ = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 600 600" }, props),
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 560 560" }, props),
       React__default['default'].createElement("g", null,
         React__default['default'].createElement("path", { d: "m381.148 160.07s-20.652 54.278-59.78 42.54c-32.684-9.805-30.809-54.137-15.091-90.711 27.233-63.371-50.539-111.899-50.539-111.899s1.216 64.276-48.22 88.759c-42.359 20.979-53.983 66.736-34.241 100.91 18.305 31.686-1.109 50.899-18.157 57.743-43.368 17.412-68.606-36.458-68.606-36.458-18.246 29.978-28.742 65.182-28.742 102.837 0 108.984 87.953 197.393 196.749 198.189-49.745-.791-89.989-41.476-90.036-91.396-.229-19.778 4.514-40.885 14.095-62.737l5.293-12.072 26.814 7.837c4.302-21.175 15.154-40.033 31.966-55.284 15.853-14.381 31.32-20.48 33.032-21.128l18.258-6.914 1.977 19.423c2.021 19.872 7.155 36.313 15.692 50.264 7.657 12.494 14.76 22.975 23.066 34.865 8.363 11.994 12.922 28.219 12.845 45.7-.008 24.425-9.528 47.39-26.809 64.67-17.276 17.278-40.259 26.792-64.717 26.792h.003c109.478 0 198.228-88.729 198.228-198.208 0-62.019-28.49-117.386-73.08-153.722z" }),
         React__default['default'].createElement("path", { d: "m317.522 420.435c.054-11.202-2.66-21.562-7.445-28.425-7.448-10.661-15.522-22.454-24.05-36.367-7.479-12.221-12.894-25.697-16.366-40.809-13.545 9.978-30.488 28.421-31.059 58.467l-.373 19.617-36.971-10.806c-4.647 13.453-6.922 26.255-6.775 38.194l.001.185c.013 33.927 27.606 61.509 61.512 61.509 16.444 0 31.895-6.394 43.505-18.003 11.621-11.622 18.021-27.066 18.021-43.49z" }))));
 };
 
 var Icon$$ = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 600 600" }, props),
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 560 560" }, props),
       React__default['default'].createElement("g", null,
         React__default['default'].createElement("g", null,
           React__default['default'].createElement("path", { d: "M325.478,433H79c-27.019,0-49-21.981-49-49c0-27.019,21.981-49,49-49h96c43.561,0,79-35.439,79-79\n\t\t\tc0-43.561-35.439-79-79-79h-52.478c0.963,4.854,1.478,9.867,1.478,15s-0.515,10.146-1.478,15H175c27.019,0,49,21.981,49,49\n\t\t\ts-21.981,49-49,49H79c-43.561,0-79,35.439-79,79c0,43.561,35.439,79,79,79h246.478c-0.963-4.854-1.478-9.867-1.478-15\n\t\t\tS324.515,437.854,325.478,433z" }))),
@@ -2066,25 +1962,25 @@ var Icon$$ = function (props) {
 
 var IconModule = /*#__PURE__*/Object.freeze({
     __proto__: null,
-    FarmIcon: Icon$I,
-    GroupsIcon: Icon$J,
-    HamburgerIcon: Icon$K,
-    HamburgerCloseIcon: Icon$L,
-    HomeIcon: Icon$M,
-    IfoIcon: Icon$N,
-    InfoIcon: Icon$O,
-    LanguageIcon: Icon$P,
+    FarmIcon: Icon$H,
+    GroupsIcon: Icon$I,
+    HamburgerIcon: Icon$J,
+    HamburgerCloseIcon: Icon$K,
+    HomeIcon: Icon$L,
+    IfoIcon: Icon$M,
+    InfoIcon: Icon$N,
+    LanguageIcon: Icon$O,
     LogoIcon: Logo,
-    MoonIcon: Icon$Q,
-    MoreIcon: Icon$R,
-    NftIcon: Icon$S,
-    PoolIcon: Icon$T,
-    SunIcon: Icon$U,
-    TelegramIcon: Icon$V,
-    TicketIcon: Icon$W,
-    TradeIcon: Icon$X,
-    TwitterIcon: Icon$Y,
-    AuditIcon: Icon$Z,
+    MoonIcon: Icon$P,
+    MoreIcon: Icon$Q,
+    NftIcon: Icon$R,
+    PoolIcon: Icon$S,
+    SunIcon: Icon$T,
+    TelegramIcon: Icon$U,
+    TicketIcon: Icon$V,
+    TradeIcon: Icon$W,
+    TwitterIcon: Icon$X,
+    AuditIcon: Icon$Y,
     BurningIcon: Icon$_,
     RoadmapIcon: Icon$$
 });
@@ -2099,7 +1995,7 @@ MenuButton.defaultProps = {
 };
 var templateObject_1$x;
 
-var StyledLink$1 = styled__default['default'](reactRouterDom.Link)(templateObject_1$y || (templateObject_1$y = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  .mobile-icon {\n    width: 32px;\n    ", " {\n      display: none;\n    }\n  }\n  .desktop-icon {\n    width: 198px;\n    display: none;\n    ", " {\n      display: block;\n    }\n  }\n"], ["\n  display: flex;\n  align-items: center;\n  .mobile-icon {\n    width: 32px;\n    ", " {\n      display: none;\n    }\n  }\n  .desktop-icon {\n    width: 198px;\n    display: none;\n    ", " {\n      display: block;\n    }\n  }\n"])), function (_a) {
+var StyledLink$1 = styled__default['default'](reactRouterDom.Link)(templateObject_1$y || (templateObject_1$y = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  .mobile-icon {\n    width: 32px;\n    ", " {\n      display: none;\n    }\n  }\n  .desktop-icon {\n    width: 156px;\n    display: none;\n    ", " {\n      display: block;\n    }\n  }\n"], ["\n  display: flex;\n  align-items: center;\n  .mobile-icon {\n    width: 32px;\n    ", " {\n      display: none;\n    }\n  }\n  .desktop-icon {\n    width: 156px;\n    display: none;\n    ", " {\n      display: block;\n    }\n  }\n"])), function (_a) {
     var theme = _a.theme;
     return theme.mediaQueries.nav;
 }, function (_a) {
@@ -2113,7 +2009,7 @@ var Logo$1 = function (_a) {
       React__default['default'].createElement(Icon$q, { className: "mobile-icon" }),
       React__default['default'].createElement(Logo, { className: "desktop-icon", isDark: isDark })));
     return (React__default['default'].createElement(Flex, null,
-      React__default['default'].createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React__default['default'].createElement(Icon$L, { width: "24px", color: "textSubtle" })) : (React__default['default'].createElement(Icon$K, { width: "24px", color: "textSubtle" }))),
+      React__default['default'].createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React__default['default'].createElement(Icon$K, { width: "24px", color: "textSubtle" })) : (React__default['default'].createElement(Icon$J, { width: "24px", color: "textSubtle" }))),
       isAbsoluteUrl ? (React__default['default'].createElement(StyledLink$1, { as: "a", href: href, "aria-label": "Pancake home page" }, innerLogo)) : (React__default['default'].createElement(StyledLink$1, { to: href, "aria-label": "Pancake home page" }, innerLogo))));
 };
 var templateObject_1$y;
@@ -2213,21 +2109,21 @@ var links = [
         label: "More",
         icon: "MoreIcon",
         items: [
-            {
-                label: "Voting",
-                href: "https://voting.pancakeswap.finance",
-            },
+            // {
+            //   label: "Voting",
+            //   href: "https://voting.pancakeswap.finance",
+            // },
             {
                 label: "Github",
-                href: "https://github.com/pancakeswap",
+                href: "https://github.com/BeeSwapFinance/",
             },
             {
                 label: "Docs",
-                href: "https://docs.pancakeswap.finance",
+                href: "https://beeswapfinance.gitbook.io/beeswap-finance/",
             },
             {
                 label: "Blog",
-                href: "https://pancakeswap.medium.com",
+                href: "https://beeswapfinance.medium.com/",
             },
         ],
     },
@@ -2239,18 +2135,58 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/fullsailfinance",
+                href: "https://t.me/BeeswapFinance",
             },
+            // {
+            //   label: "Bahasa Indonesia",
+            //   href: "https://t.me/PancakeSwapIndonesia",
+            // },
+            // {
+            //   label: "中文",
+            //   href: "https://t.me/PancakeSwap_CN",
+            // },
+            // {
+            //   label: "Tiếng Việt",
+            //   href: "https://t.me/PancakeSwapVN",
+            // },
+            // {
+            //   label: "Italiano",
+            //   href: "https://t.me/pancakeswap_ita",
+            // },
+            // {
+            //   label: "русский",
+            //   href: "https://t.me/pancakeswap_ru",
+            // },
+            // {
+            //   label: "Türkiye",
+            //   href: "https://t.me/pancakeswapturkiye",
+            // },
+            // {
+            //   label: "Português",
+            //   href: "https://t.me/PancakeSwapPortuguese",
+            // },
+            // {
+            //   label: "Español",
+            //   href: "https://t.me/PancakeswapEs",
+            // },
+            // {
+            //   label: "日本語",
+            //   href: "https://t.me/pancakeswapjp",
+            // },
+            // {
+            //   label: "Français",
+            //   href: "https://t.me/pancakeswapfr",
+            // },
             {
                 label: "Announcements",
-                href: "https://t.me/fullsailfinance_ann",
+                href: "https://t.me/BeeSwapFinanceAnn",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceFullSail",
+        href: "https://twitter.com/BeeswapF",
     },
 ];
 var MENU_HEIGHT = 64;
@@ -2345,9 +2281,7 @@ var PanelBody = function (_a) {
         var iconElement = React__default['default'].createElement(Icon, { width: "24px", mr: "8px" });
         var calloutClass = entry.calloutClass ? entry.calloutClass : undefined;
         if (entry.items) {
-            var itemsMatchIndex = entry.items.findIndex(function (item) { return item.href === location.pathname; });
-            var initialOpenState = entry.initialOpenState === true ? entry.initialOpenState : itemsMatchIndex >= 0;
-            return (React__default['default'].createElement(Accordion, { key: entry.label, isPushed: isPushed, pushNav: pushNav, icon: iconElement, label: entry.label, initialOpenState: initialOpenState, className: calloutClass }, isPushed &&
+            return (React__default['default'].createElement(Accordion, { key: entry.label, isPushed: isPushed, pushNav: pushNav, icon: iconElement, label: entry.label, initialOpenState: entry.initialOpenState, className: calloutClass }, isPushed &&
               entry.items.map(function (item) { return (React__default['default'].createElement(MenuEntry, { key: item.href, secondary: true, isActive: item.href === location.pathname, onClick: handleClick },
                 React__default['default'].createElement(MenuLink, { href: item.href }, item.label))); })));
         }
@@ -2369,7 +2303,7 @@ var PriceLink = styled__default['default'].a(templateObject_2$c || (templateObje
 var SettingsEntry = styled__default['default'].div(templateObject_3$7 || (templateObject_3$7 = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 8px;\n"], ["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 8px;\n"])), MENU_ENTRY_HEIGHT);
 var SocialEntry = styled__default['default'].div(templateObject_4$2 || (templateObject_4$2 = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 16px;\n"], ["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 16px;\n"])), MENU_ENTRY_HEIGHT);
 var PanelFooter = function (_a) {
-    var isPushed = _a.isPushed, pushNav = _a.pushNav, toggleTheme = _a.toggleTheme, isDark = _a.isDark, cakePriceUsd = _a.cakePriceUsd, currentLang = _a.currentLang, langs = _a.langs, setLang = _a.setLang;
+    var isPushed = _a.isPushed, pushNav = _a.pushNav, toggleTheme = _a.toggleTheme, isDark = _a.isDark, cakePriceUsd = _a.cakePriceUsd, currentLang = _a.currentLang, langs = _a.langs, setLang = _a.setLang, priceLink = _a.priceLink;
     if (!isPushed) {
         return (React__default['default'].createElement(Container$4, null,
           React__default['default'].createElement(IconButton, { variant: "text", onClick: function () { return pushNav(true); } },
@@ -2377,8 +2311,8 @@ var PanelFooter = function (_a) {
     }
     return (React__default['default'].createElement(Container$4, null,
       React__default['default'].createElement(SocialEntry, null,
-        cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: "https://bscscan.com/token/0x8148b58393f00b4b379cbeb8018d3445e0b636a0", target: "_blank" },
-          React__default['default'].createElement(Icon$w, { width: "24px", mr: "8px" }),
+        cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: priceLink, target: "_blank" },
+          React__default['default'].createElement(Icon$v, { width: "24px", mr: "8px" }),
           React__default['default'].createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(3)))) : (React__default['default'].createElement(Skeleton, { width: 80, height: 24 })),
         React__default['default'].createElement(Flex, null, socials.map(function (social, index) {
             var Icon = Icons$1[social.icon];
@@ -2562,7 +2496,7 @@ var ConnectModal = function (_a) {
     var login = _a.login, _b = _a.onDismiss, onDismiss = _b === void 0 ? function () { return null; } : _b;
     return (React__default['default'].createElement(Modal, { title: "Connect to a wallet", onDismiss: onDismiss },
       connectors.map(function (entry, index) { return (React__default['default'].createElement(WalletCard, { key: entry.title, login: login, walletConfig: entry, onDismiss: onDismiss, mb: index < connectors.length - 1 ? "8px" : "0" })); }),
-      React__default['default'].createElement(HelpLink, { href: "https://docs.fullsail.finance/guides/faq#how-do-i-set-up-my-wallet-on-binance-smart-chain", external: true },
+      React__default['default'].createElement(HelpLink, { href: "https://docs.pancakeswap.finance/guides/faq#how-do-i-set-up-my-wallet-on-binance-smart-chain", external: true },
         React__default['default'].createElement(Icon$o, { color: "primary", mr: "6px" }),
         "Learn how to connect")));
 };
@@ -2633,6 +2567,21 @@ var UserBlock = function (_a) {
         } }, "Connect"))));
 };
 
+var Icon$13 = function (props) {
+    var theme = styled.useTheme();
+    var primaryColor = theme.isDark ? "#3C3742" : "#e9eaeb";
+    var secondaryColor = theme.isDark ? "#666171" : "#bdc2c4";
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
+      React__default['default'].createElement("path", { d: "M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16z", fill: primaryColor }),
+      React__default['default'].createElement("mask", { id: "A", "mask-type": "alpha", maskUnits: "userSpaceOnUse", x: "0", y: "0", width: "32", height: "32" },
+        React__default['default'].createElement("path", { d: "M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16z", fill: "#c4c4c4" })),
+      React__default['default'].createElement("g", { mask: "url(#A)" },
+        React__default['default'].createElement("path", { d: "M25.128 16.436c0 3.115-4.133 5.641-9.231 5.641s-9.231-2.526-9.231-5.641V15h18.461v1.436zm2.205 13.806c0-3.815-5.074-6.908-11.333-6.908S4.667 26.426 4.667 30.242V32h22.667v-1.759z", fill: secondaryColor }),
+        React__default['default'].createElement("path", { fillRule: "evenodd", d: "M10.234 5.601C9.942 4.264 10.96 3 12.328 3c1.184 0 2.143.959 2.143 2.143v3.873l1.427-.067c.589 0 1.166.034 1.724.098V5.143c0-1.184.959-2.143 2.143-2.143 1.368 0 2.386 1.264 2.093 2.601l-.931 4.258c2.529 1.006 4.201 2.749 4.201 4.731 0 3.115-4.133 5.641-9.231 5.641s-9.231-2.526-9.231-5.641c0-2.053 1.794-3.849 4.476-4.836l-.908-4.153z", fill: secondaryColor }),
+        React__default['default'].createElement("ellipse", { cx: "12.308", cy: "14.846", rx: "1.026", ry: "1.538", fill: primaryColor }),
+        React__default['default'].createElement("ellipse", { cx: "19.385", cy: "14.846", rx: "1.026", ry: "1.538", fill: primaryColor }))));
+};
+
 var StyledAvatar = styled__default['default'].div(templateObject_1$G || (templateObject_1$G = __makeTemplateObject(["\n  margin-left: 8px;\n  position: relative;\n\n  img {\n    border-radius: 50%;\n  }\n"], ["\n  margin-left: 8px;\n  position: relative;\n\n  img {\n    border-radius: 50%;\n  }\n"])));
 var Pip = styled__default['default'].div(templateObject_2$e || (templateObject_2$e = __makeTemplateObject(["\n  background-color: ", ";\n  border-radius: 50%;\n  pointer-events: none;\n  height: 8px;\n  position: absolute;\n  right: 0;\n  top: 0;\n  width: 8px;\n"], ["\n  background-color: ", ";\n  border-radius: 50%;\n  pointer-events: none;\n  height: 8px;\n  position: absolute;\n  right: 0;\n  top: 0;\n  width: 8px;\n"])), function (_a) {
     var theme = _a.theme;
@@ -2644,7 +2593,7 @@ var Avatar = function (_a) {
     var link = profile.username ? profileLink : noProfileLink;
     var isExternal = link.startsWith("http");
     var ariaLabel = "Link to profile";
-    var icon = image ? (React__default['default'].createElement("img", { src: image, alt: "profile avatar", height: "32px", width: "32px" })) : (React__default['default'].createElement(Icon$t, { width: "32px", height: "32px" }));
+    var icon = image ? (React__default['default'].createElement("img", { src: image, alt: "profile avatar", height: "32px", width: "32px" })) : (React__default['default'].createElement(Icon$13, { width: "32px", height: "32px" }));
     if (isExternal) {
         return (React__default['default'].createElement(StyledAvatar, { title: username },
           React__default['default'].createElement("a", { href: link, "aria-label": ariaLabel }, icon),
@@ -2665,7 +2614,7 @@ var StyledNav = styled__default['default'].nav(templateObject_2$f || (templateOb
     return theme.nav.background;
 });
 var BodyWrapper = styled__default['default'].div(templateObject_3$8 || (templateObject_3$8 = __makeTemplateObject(["\n  position: relative;\n  display: flex;\n"], ["\n  position: relative;\n  display: flex;\n"])));
-var Inner = styled__default['default'].div(templateObject_4$3 || (templateObject_4$3 = __makeTemplateObject(["\n  flex-grow: 1;\n  margin-top: ", ";\n  transition: margin-top 0.2s;\n  transform: translate3d(0, 0, 0);\n  max-width: 100%;\n\n  ", " {\n    margin-left: ", ";\n    max-width: ", ";\n  }\n"], ["\n  flex-grow: 1;\n  margin-top: ", ";\n  transition: margin-top 0.2s;\n  transform: translate3d(0, 0, 0);\n  max-width: 100%;\n\n  ", " {\n    margin-left: ", ";\n    max-width: ", ";\n  }\n"])), function (_a) {
+var Inner = styled__default['default'].div(templateObject_4$3 || (templateObject_4$3 = __makeTemplateObject(["\n  flex-grow: 1;\n  margin-top: ", ";\n  transition: margin-top 0.2s;\n  transform: translate3d(0, 0, 0);\n  ", " {\n    margin-left: ", ";\n  }\n"], ["\n  flex-grow: 1;\n  margin-top: ", ";\n  transition: margin-top 0.2s;\n  transform: translate3d(0, 0, 0);\n  ", " {\n    margin-left: ", ";\n  }\n"])), function (_a) {
     var showMenu = _a.showMenu;
     return (showMenu ? MENU_HEIGHT + "px" : 0);
 }, function (_a) {
@@ -2674,9 +2623,6 @@ var Inner = styled__default['default'].div(templateObject_4$3 || (templateObject
 }, function (_a) {
     var isPushed = _a.isPushed;
     return (isPushed ? SIDEBAR_WIDTH_FULL : SIDEBAR_WIDTH_REDUCED) + "px";
-}, function (_a) {
-    var isPushed = _a.isPushed;
-    return "calc(100% - " + (isPushed ? SIDEBAR_WIDTH_FULL : SIDEBAR_WIDTH_REDUCED) + "px)";
 });
 var MobileOnlyOverlay = styled__default['default'](Overlay)(templateObject_5$1 || (templateObject_5$1 = __makeTemplateObject(["\n  position: fixed;\n  height: 100%;\n\n  ", " {\n    display: none;\n  }\n"], ["\n  position: fixed;\n  height: 100%;\n\n  ", " {\n    display: none;\n  }\n"])), function (_a) {
     var theme = _a.theme;
@@ -2684,7 +2630,7 @@ var MobileOnlyOverlay = styled__default['default'](Overlay)(templateObject_5$1 |
 });
 var Menu = function (_a) {
     var _b;
-    var account = _a.account, login = _a.login, logout = _a.logout, isDark = _a.isDark, toggleTheme = _a.toggleTheme, langs = _a.langs, setLang = _a.setLang, currentLang = _a.currentLang, cakePriceUsd = _a.cakePriceUsd, links = _a.links, profile = _a.profile, children = _a.children;
+    var account = _a.account, login = _a.login, logout = _a.logout, isDark = _a.isDark, toggleTheme = _a.toggleTheme, langs = _a.langs, setLang = _a.setLang, currentLang = _a.currentLang, cakePriceUsd = _a.cakePriceUsd, links = _a.links, priceLink = _a.priceLink, profile = _a.profile, children = _a.children;
     var isXl = useMatchBreakpoints().isXl;
     var isMobile = isXl === false;
     var _c = React.useState(!isMobile), isPushed = _c[0], setIsPushed = _c[1];
@@ -2727,7 +2673,7 @@ var Menu = function (_a) {
           React__default['default'].createElement(UserBlock, { account: account, login: login, logout: logout }),
           profile && React__default['default'].createElement(Avatar, { profile: profile }))),
       React__default['default'].createElement(BodyWrapper, null,
-        React__default['default'].createElement(Panel, { isPushed: isPushed, isMobile: isMobile, showMenu: showMenu, isDark: isDark, toggleTheme: toggleTheme, langs: langs, setLang: setLang, currentLang: currentLang, cakePriceUsd: cakePriceUsd, pushNav: setIsPushed, links: links }),
+        React__default['default'].createElement(Panel, { isPushed: isPushed, isMobile: isMobile, showMenu: showMenu, isDark: isDark, toggleTheme: toggleTheme, langs: langs, setLang: setLang, currentLang: currentLang, cakePriceUsd: cakePriceUsd, pushNav: setIsPushed, links: links, priceLink: priceLink }),
         React__default['default'].createElement(Inner, { isPushed: isPushed, showMenu: showMenu }, children),
         React__default['default'].createElement(MobileOnlyOverlay, { show: isPushed, onClick: function () { return setIsPushed(false); }, role: "presentation" }))));
 };
@@ -2820,21 +2766,21 @@ var ResetCSS = styled.createGlobalStyle(templateObject_1$K || (templateObject_1$
 var templateObject_1$K;
 
 var baseColors = {
-    failure: "#FF5B5C",
-    primary: "#5A8DEE",
-    primaryBright: "#719DF0",
-    primaryDark: "#2C6DE9",
-    secondary: "#475F7B",
-    success: "#39DA8A",
-    warning: "#FDAC41",
+    failure: "#ED4B9E",
+    primary: "#e19a00",
+    primaryBright: "#e19a00",
+    primaryDark: "#e19a00",
+    secondary: "#e29900",
+    success: "#31D0AA",
+    warning: "#FFB237",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#F2F4F4", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputBorder: "#cccccc", tertiary: "#5A8DEE26", text: "#475F7B", textDisabled: "#BDC2C4", textSubtle: "#8494A7", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#f5a700", textDisabled: "#BDC2C4", textSubtle: "#f5a700", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#BDD1F8", background: "#1A233A", backgroundDisabled: "#394C62", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#353D52", inputBorder: "#cccccc", primaryDark: "#0098A1", tertiary: "#5A8DEE26", text: "#BDD1F8", textDisabled: "#666171", textSubtle: "#8A99B5", borderColor: "#524B63", card: "#272E48", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#e29900", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
@@ -3034,31 +2980,30 @@ exports.Menu = Menu;
 exports.MinusIcon = Icon$s;
 exports.Modal = Modal;
 exports.ModalProvider = ModalProvider;
-exports.NoProfileAvatarIcon = Icon$t;
-exports.OpenNewIcon = Icon$u;
-exports.PancakeRoundIcon = Icon$w;
-exports.PancakesIcon = Icon$v;
-exports.PrizeIcon = Icon$x;
+exports.OpenNewIcon = Icon$t;
+exports.PancakeRoundIcon = Icon$v;
+exports.PancakesIcon = Icon$u;
+exports.PrizeIcon = Icon$w;
 exports.Progress = Progress;
-exports.ProgressBunny = Icon$A;
+exports.ProgressBunny = Icon$z;
 exports.Radio = Radio;
-exports.RemoveIcon = Icon$y;
+exports.RemoveIcon = Icon$x;
 exports.ResetCSS = ResetCSS;
-exports.SearchIcon = Icon$E;
+exports.SearchIcon = Icon$D;
 exports.Skeleton = Skeleton;
 exports.Spinner = Spinner;
 exports.Svg = Svg;
-exports.SwapVertIcon = Icon$F;
-exports.SyncAltIcon = Icon$G;
+exports.SwapVertIcon = Icon$E;
+exports.SyncAltIcon = Icon$F;
 exports.Tag = Tag;
 exports.Text = Text;
-exports.Ticket = Icon$C;
-exports.TicketRound = Icon$D;
+exports.Ticket = Icon$B;
+exports.TicketRound = Icon$C;
 exports.ToastContainer = ToastContainer;
 exports.Toggle = Toggle;
-exports.VerifiedIcon = Icon$z;
-exports.WarningIcon = Icon$H;
-exports.Won = Icon$B;
+exports.VerifiedIcon = Icon$y;
+exports.WarningIcon = Icon$G;
+exports.Won = Icon$A;
 exports.alertVariants = variants$1;
 exports.byTextAscending = byTextAscending;
 exports.byTextDescending = byTextDescending;
