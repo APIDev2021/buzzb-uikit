@@ -2101,15 +2101,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/BeeSwapFinance/",
+                href: "https://github.com/buzzb2021",
             },
             {
                 label: "Docs",
-                href: "https://beeswapfinance.gitbook.io/beeswap-finance/",
+                href: "",
             },
             {
                 label: "Blog",
-                href: "https://beeswapfinance.medium.com/",
+                href: "",
             },
         ],
     },
@@ -2121,7 +2121,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/BeeswapFinance",
+                href: "https://t.me/buzzbfinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2165,14 +2165,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/BeeSwapFinanceAnn",
+                href: "https://t.me/buzzbfinancenews",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/BeeswapF",
+        href: "https://twitter.com/buzzbee2021",
     },
 ];
 var MENU_HEIGHT = 64;
